@@ -1,0 +1,16 @@
+{
+  "name": "상용한자 外 플립 카드",
+  "short_name": "상용외한자",
+  "description": "상용한자 외 학습용 플래시카드",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
