@@ -20,8 +20,8 @@
             "meaning": "(시를) 읊다"
           }
         ],
-        "ondoku": "えいしょう",
-        "kundoku": "よ"
+        "ondoku": "エイ",
+        "kundoku": "よむ"
       },
       {
         "kanji": "藍",
@@ -40,7 +40,7 @@
             "meaning": "쪽빛(남색)"
           }
         ],
-        "ondoku": "がらん",
+        "ondoku": "ラン",
         "kundoku": "あい"
       },
       {
@@ -60,8 +60,8 @@
             "meaning": "시들다"
           }
         ],
-        "ondoku": "いしゅく",
-        "kundoku": "しお"
+        "ondoku": "イ",
+        "kundoku": "なえる・しぼむ"
       },
       {
         "kanji": "稲",
@@ -80,8 +80,8 @@
             "meaning": "벼"
           }
         ],
-        "ondoku": "いなびかり",
-        "kundoku": "いね"
+        "ondoku": "トウ",
+        "kundoku": "いね・いな"
       },
       {
         "kanji": "眉",
@@ -100,7 +100,7 @@
             "meaning": "눈썹"
           }
         ],
-        "ondoku": "みけん",
+        "ondoku": "ビ・ミ",
         "kundoku": "まゆ"
       }
     ]
@@ -126,7 +126,7 @@
             "meaning": "기와"
           }
         ],
-        "ondoku": "がかい",
+        "ondoku": "ガ",
         "kundoku": "かわら"
       },
       {
@@ -146,7 +146,7 @@
             "meaning": "턱"
           }
         ],
-        "ondoku": "がくかんせつ",
+        "ondoku": "ガク",
         "kundoku": "あご"
       },
       {
@@ -160,8 +160,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あつみ",
-        "kundoku": null
+        "ondoku": "アク",
+        "kundoku": ""
       },
       {
         "kanji": "旭",
@@ -180,7 +180,7 @@
             "meaning": "아침해"
           }
         ],
-        "ondoku": "きょくじつ",
+        "ondoku": "キョク",
         "kundoku": "あさひ"
       },
       {
@@ -200,8 +200,8 @@
             "meaning": "갈대"
           }
         ],
-        "ondoku": "あしわら",
-        "kundoku": "あし/よし"
+        "ondoku": "イ",
+        "kundoku": "あし・よし"
       }
     ]
   },
@@ -226,7 +226,7 @@
             "meaning": "암자"
           }
         ],
-        "ondoku": "あんしゅ",
+        "ondoku": "アン",
         "kundoku": "いおり"
       },
       {
@@ -246,7 +246,7 @@
             "meaning": "안장"
           }
         ],
-        "ondoku": "あんま",
+        "ondoku": "アン",
         "kundoku": "くら"
       },
       {
@@ -265,8 +265,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あんま / あんばい",
-        "kundoku": null
+        "ondoku": "アン",
+        "kundoku": ""
       },
       {
         "kanji": "闇",
@@ -285,7 +285,7 @@
             "meaning": "어둠"
           }
         ],
-        "ondoku": "やみくも",
+        "ondoku": "アン",
         "kundoku": "やみ"
       },
       {
@@ -305,8 +305,8 @@
             "meaning": "내력/사연"
           }
         ],
-        "ondoku": "いわゆる",
-        "kundoku": "い"
+        "ondoku": "イ",
+        "kundoku": "いう・いい"
       }
     ]
   },
@@ -345,8 +345,8 @@
             "meaning": "경외하다"
           }
         ],
-        "ondoku": "いふ",
-        "kundoku": "おそ"
+        "ondoku": "イ",
+        "kundoku": "おそれる"
       },
       {
         "kanji": "萎",
@@ -359,8 +359,8 @@
             "meaning": "시들다/쇠약해지다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "な"
+        "ondoku": "イ",
+        "kundoku": "なえる・しぼむ"
       },
       {
         "kanji": "謂",
@@ -373,8 +373,8 @@
             "meaning": "일컫다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "い"
+        "ondoku": "イ",
+        "kundoku": "いう・いい"
       },
       {
         "kanji": "夷",
@@ -387,8 +387,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "じょうい",
-        "kundoku": null
+        "ondoku": "イ",
+        "kundoku": "えびす"
       }
     ]
   },
@@ -407,8 +407,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ごい",
-        "kundoku": null
+        "ondoku": "イ",
+        "kundoku": ""
       },
       {
         "kanji": "茨",
@@ -427,7 +427,7 @@
             "meaning": "가시나무"
           }
         ],
-        "ondoku": "いばらきけん",
+        "ondoku": "シ",
         "kundoku": "いばら"
       },
       {
@@ -446,8 +446,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "いんこう / おえつ",
-        "kundoku": null
+        "ondoku": "イン・エン",
+        "kundoku": "のど・むせぶ"
       },
       {
         "kanji": "姻",
@@ -465,8 +465,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こんいん / いんぞく",
-        "kundoku": null
+        "ondoku": "イン",
+        "kundoku": ""
       },
       {
         "kanji": "淫",
@@ -485,8 +485,8 @@
             "meaning": "음란함"
           }
         ],
-        "ondoku": "いんとう",
-        "kundoku": "みだ"
+        "ondoku": "イン",
+        "kundoku": "みだら"
       }
     ]
   },
@@ -511,8 +511,8 @@
             "meaning": "씨/혈통"
           }
         ],
-        "ondoku": "こういん",
-        "kundoku": "たね"
+        "ondoku": "イン",
+        "kundoku": ""
       },
       {
         "kanji": "蔭",
@@ -530,8 +530,8 @@
             "meaning": "덕분에요"
           }
         ],
-        "ondoku": "",
-        "kundoku": "かげ / おかげさま"
+        "ondoku": "イン",
+        "kundoku": "かげ"
       },
       {
         "kanji": "院",
@@ -549,8 +549,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "がくいん / びょういん",
-        "kundoku": null
+        "ondoku": "イン",
+        "kundoku": ""
       },
       {
         "kanji": "淫",
@@ -563,8 +563,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "いんらん",
-        "kundoku": null
+        "ondoku": "イン",
+        "kundoku": "みだら"
       },
       {
         "kanji": "咽",
@@ -577,8 +577,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "いんとう",
-        "kundoku": null
+        "ondoku": "イン・エン",
+        "kundoku": "のど・むせぶ"
       }
     ]
   },
@@ -603,7 +603,7 @@
             "meaning": "우타이테"
           }
         ],
-        "ondoku": "こうた",
+        "ondoku": "バイ",
         "kundoku": "うた"
       },
       {
@@ -623,7 +623,7 @@
             "meaning": "노파/유모"
           }
         ],
-        "ondoku": "うばすて",
+        "ondoku": "ボ",
         "kundoku": "うば"
       },
       {
@@ -643,7 +643,7 @@
             "meaning": "마구간"
           }
         ],
-        "ondoku": "きゅうしゃ",
+        "ondoku": "キュウ",
         "kundoku": "うまや"
       },
       {
@@ -663,7 +663,7 @@
             "meaning": "오이/참외"
           }
         ],
-        "ondoku": "かでん",
+        "ondoku": "カ",
         "kundoku": "うり"
       },
       {
@@ -683,7 +683,7 @@
             "meaning": "소문"
           }
         ],
-        "ondoku": "うわさばなし",
+        "ondoku": "ソン",
         "kundoku": "うわさ"
       }
     ]
@@ -708,8 +708,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "うんかい / あんうん",
-        "kundoku": null
+        "ondoku": "ウン",
+        "kundoku": "くも"
       },
       {
         "kanji": "運",
@@ -728,8 +728,8 @@
             "meaning": "운반하다"
           }
         ],
-        "ondoku": "こううん",
-        "kundoku": "はこ"
+        "ondoku": "ウン",
+        "kundoku": "はこぶ"
       },
       {
         "kanji": "溢",
@@ -748,8 +748,8 @@
             "meaning": "넘치다"
           }
         ],
-        "ondoku": "じゅういつ",
-        "kundoku": "あふ"
+        "ondoku": "イツ",
+        "kundoku": "あふれる"
       },
       {
         "kanji": "洩",
@@ -768,8 +768,8 @@
             "meaning": "새다"
           }
         ],
-        "ondoku": "ろうえい/ろうせつ",
-        "kundoku": "も"
+        "ondoku": "エイ",
+        "kundoku": "もれる"
       },
       {
         "kanji": "艶",
@@ -787,8 +787,8 @@
             "meaning": "요염하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "つや / なま"
+        "ondoku": "エン",
+        "kundoku": "つや"
       }
     ]
   },
@@ -813,7 +813,7 @@
             "meaning": "동산"
           }
         ],
-        "ondoku": "がいえん",
+        "ondoku": "エン",
         "kundoku": "その"
       },
       {
@@ -833,7 +833,7 @@
             "meaning": "소(沼)"
           }
         ],
-        "ondoku": "しんえん",
+        "ondoku": "エン",
         "kundoku": "ふち"
       },
       {
@@ -847,8 +847,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "えんざい",
-        "kundoku": null
+        "ondoku": "エン",
+        "kundoku": ""
       },
       {
         "kanji": "宛",
@@ -867,8 +867,8 @@
             "meaning": "수신"
           }
         ],
-        "ondoku": "あてな",
-        "kundoku": "あ"
+        "ondoku": "エン",
+        "kundoku": "あてる"
       },
       {
         "kanji": "襖",
@@ -881,7 +881,7 @@
             "meaning": "후스마"
           }
         ],
-        "ondoku": "",
+        "ondoku": "オウ",
         "kundoku": "ふすま"
       }
     ]
@@ -907,7 +907,7 @@
             "meaning": "옹(할아버지)"
           }
         ],
-        "ondoku": "ろうおう",
+        "ondoku": "オウ",
         "kundoku": "おきな"
       },
       {
@@ -927,8 +927,8 @@
             "meaning": "부응하다"
           }
         ],
-        "ondoku": "おうえん",
-        "kundoku": "こた"
+        "ondoku": "オウ",
+        "kundoku": "こたえる"
       },
       {
         "kanji": "於",
@@ -941,8 +941,8 @@
             "meaning": "~에서"
           }
         ],
-        "ondoku": "",
-        "kundoku": "お"
+        "ondoku": "オ",
+        "kundoku": ""
       },
       {
         "kanji": "甥",
@@ -955,7 +955,7 @@
             "meaning": "조카"
           }
         ],
-        "ondoku": "",
+        "ondoku": "セイ",
         "kundoku": "おい"
       },
       {
@@ -969,7 +969,7 @@
             "meaning": "언덕"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コウ",
         "kundoku": "おか"
       }
     ]
@@ -995,8 +995,8 @@
             "meaning": "일본인의 이름(성)으로 자주 쓰이는 "
           }
         ],
-        "ondoku": "ぎょうしゅん",
-        "kundoku": "たか"
+        "ondoku": "ギョウ",
+        "kundoku": ""
       },
       {
         "kanji": "堰",
@@ -1014,8 +1014,8 @@
             "meaning": "(흐름을) 가로막다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "せき / せ"
+        "ondoku": "エン",
+        "kundoku": "せき"
       },
       {
         "kanji": "埴",
@@ -1033,8 +1033,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "はにわ / ふしょく",
-        "kundoku": null
+        "ondoku": "ショク",
+        "kundoku": "はに"
       },
       {
         "kanji": "唄",
@@ -1053,7 +1053,7 @@
             "meaning": "우타이테"
           }
         ],
-        "ondoku": "こうた",
+        "ondoku": "バイ",
         "kundoku": "うた"
       },
       {
@@ -1072,8 +1072,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "せっぷん / ふんぷん",
-        "kundoku": null
+        "ondoku": "フン",
+        "kundoku": ""
       }
     ]
   },
@@ -1098,8 +1098,8 @@
             "meaning": "혼내다"
           }
         ],
-        "ondoku": "しった",
-        "kundoku": "しか"
+        "ondoku": "シツ",
+        "kundoku": "しかる"
       },
       {
         "kanji": "嘩",
@@ -1112,8 +1112,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けんか",
-        "kundoku": null
+        "ondoku": "カ",
+        "kundoku": ""
       },
       {
         "kanji": "喧",
@@ -1131,8 +1131,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けんそう / けんでン",
-        "kundoku": null
+        "ondoku": "ケン",
+        "kundoku": "やかましい"
       },
       {
         "kanji": "嘘",
@@ -1150,7 +1150,7 @@
             "meaning": "거짓말쟁이"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キョ",
         "kundoku": "うそ"
       },
       {
@@ -1169,8 +1169,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "じゅうてん / ほてん",
-        "kundoku": null
+        "ondoku": "テン",
+        "kundoku": ""
       }
     ]
   },
@@ -1195,8 +1195,8 @@
             "meaning": "일(1)"
           }
         ],
-        "ondoku": "いちばん",
-        "kundoku": "いち"
+        "ondoku": "イチ",
+        "kundoku": ""
       },
       {
         "kanji": "奢",
@@ -1215,8 +1215,8 @@
             "meaning": "한턱내다"
           }
         ],
-        "ondoku": "しゃし",
-        "kundoku": "おご"
+        "ondoku": "シャ",
+        "kundoku": "おごる"
       },
       {
         "kanji": "婿",
@@ -1235,7 +1235,7 @@
             "meaning": "사위"
           }
         ],
-        "ondoku": "はなむこ",
+        "ondoku": "セイ",
         "kundoku": "むこ"
       },
       {
@@ -1254,8 +1254,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "えひめけん / さいえん",
-        "kundoku": null
+        "ondoku": "エン",
+        "kundoku": "ひめ"
       },
       {
         "kanji": "嬬",
@@ -1268,8 +1268,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "つまごいむら",
-        "kundoku": null
+        "ondoku": "ジュ",
+        "kundoku": ""
       }
     ]
   },
@@ -1288,8 +1288,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しし",
-        "kundoku": null
+        "ondoku": "シ",
+        "kundoku": ""
       },
       {
         "kanji": "宦",
@@ -1302,8 +1302,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "かんがん",
-        "kundoku": null
+        "ondoku": "カン",
+        "kundoku": ""
       },
       {
         "kanji": "屏",
@@ -1321,8 +1321,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "びょうぶ / へいしょう",
-        "kundoku": null
+        "ondoku": "ヘイ・ビョウ",
+        "kundoku": ""
       },
       {
         "kanji": "峻",
@@ -1340,8 +1340,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゅんけん / しゅんげん",
-        "kundoku": null
+        "ondoku": "シュン",
+        "kundoku": "けわしい"
       },
       {
         "kanji": "嶺",
@@ -1360,7 +1360,7 @@
             "meaning": "산봉우리"
           }
         ],
-        "ondoku": "れいなん",
+        "ondoku": "レイ・リョウ",
         "kundoku": "みね"
       }
     ]
@@ -1380,8 +1380,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "げんすい",
-        "kundoku": null
+        "ondoku": "スイ",
+        "kundoku": ""
       },
       {
         "kanji": "幌",
@@ -1400,7 +1400,7 @@
             "meaning": "호로(덮개)"
           }
         ],
-        "ondoku": "こうしゃ",
+        "ondoku": "コウ",
         "kundoku": "ほろ"
       },
       {
@@ -1419,8 +1419,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こうほう / こうぼう",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": "ひろい"
       },
       {
         "kanji": "彙",
@@ -1433,8 +1433,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ごい",
-        "kundoku": null
+        "ondoku": "イ",
+        "kundoku": ""
       },
       {
         "kanji": "徽",
@@ -1447,8 +1447,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "きしょう",
-        "kundoku": null
+        "ondoku": "キ",
+        "kundoku": ""
       }
     ]
   },
@@ -1472,8 +1472,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "そうざい / そうりょう",
-        "kundoku": null
+        "ondoku": "ソウ",
+        "kundoku": ""
       },
       {
         "kanji": "憬",
@@ -1486,8 +1486,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しょうけい",
-        "kundoku": null
+        "ondoku": "ケイ",
+        "kundoku": ""
       },
       {
         "kanji": "戎",
@@ -1500,8 +1500,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "へいじゅう",
-        "kundoku": null
+        "ondoku": "ジュウ",
+        "kundoku": "えびす"
       },
       {
         "kanji": "戚",
@@ -1514,8 +1514,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しんせき",
-        "kundoku": null
+        "ondoku": "セキ",
+        "kundoku": ""
       },
       {
         "kanji": "戴",
@@ -1533,8 +1533,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ちょうだい / たいかん",
-        "kundoku": null
+        "ondoku": "タイ",
+        "kundoku": "いただく"
       }
     ]
   },
@@ -1553,8 +1553,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あいさつ",
-        "kundoku": null
+        "ondoku": "サツ",
+        "kundoku": ""
       },
       {
         "kanji": "挨",
@@ -1567,8 +1567,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あいさつ",
-        "kundoku": null
+        "ondoku": "アイ",
+        "kundoku": ""
       },
       {
         "kanji": "揃",
@@ -1586,8 +1586,8 @@
             "meaning": "갖추다/정렬하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "そろ"
+        "ondoku": "セン",
+        "kundoku": "そろう・そろえる"
       },
       {
         "kanji": "揖",
@@ -1600,8 +1600,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ゆうじょう",
-        "kundoku": null
+        "ondoku": "ユウ",
+        "kundoku": ""
       },
       {
         "kanji": "撫",
@@ -1619,8 +1619,8 @@
             "meaning": "처진 어깨"
           }
         ],
-        "ondoku": "",
-        "kundoku": "な"
+        "ondoku": "ブ",
+        "kundoku": "なでる"
       }
     ]
   },
@@ -1639,8 +1639,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ばってき",
-        "kundoku": null
+        "ondoku": "テキ",
+        "kundoku": "ぬく"
       },
       {
         "kanji": "斡",
@@ -1653,8 +1653,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あっせん",
-        "kundoku": null
+        "ondoku": "アツ",
+        "kundoku": ""
       },
       {
         "kanji": "旺",
@@ -1667,8 +1667,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "おうせい",
-        "kundoku": null
+        "ondoku": "オウ",
+        "kundoku": ""
       },
       {
         "kanji": "昂",
@@ -1686,8 +1686,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こうよう / こうふん",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": ""
       },
       {
         "kanji": "昏",
@@ -1705,8 +1705,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こんすい / こんめい",
-        "kundoku": null
+        "ondoku": "コン",
+        "kundoku": "くらい"
       }
     ]
   },
@@ -1731,8 +1731,8 @@
             "meaning": "일본의 유명한 정치인 '아베 신조'의"
           }
         ],
-        "ondoku": "しんざん",
-        "kundoku": "しん"
+        "ondoku": "シン",
+        "kundoku": ""
       },
       {
         "kanji": "暢",
@@ -1745,8 +1745,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "りゅうちょう",
-        "kundoku": null
+        "ondoku": "チョウ",
+        "kundoku": ""
       },
       {
         "kanji": "曖",
@@ -1759,8 +1759,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あいまい",
-        "kundoku": null
+        "ondoku": "アイ",
+        "kundoku": ""
       },
       {
         "kanji": "曾",
@@ -1773,8 +1773,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "そうそふ",
-        "kundoku": null
+        "ondoku": "ソウ・ゾ",
+        "kundoku": ""
       },
       {
         "kanji": "朋",
@@ -1787,8 +1787,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ほうゆう",
-        "kundoku": null
+        "ondoku": "ホウ",
+        "kundoku": "とも"
       }
     ]
   },
@@ -1813,7 +1813,7 @@
             "meaning": "어렴풋함"
           }
         ],
-        "ondoku": "おぼろづき",
+        "ondoku": "ロウ",
         "kundoku": "おぼろ"
       },
       {
@@ -1833,7 +1833,7 @@
             "meaning": "살구"
           }
         ],
-        "ondoku": "あんにん",
+        "ondoku": "キョウ・アン",
         "kundoku": "あんず"
       },
       {
@@ -1853,7 +1853,7 @@
             "meaning": "숲"
           }
         ],
-        "ondoku": "ずさん",
+        "ondoku": "ト",
         "kundoku": "もり"
       },
       {
@@ -1867,8 +1867,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しばいぬ",
-        "kundoku": null
+        "ondoku": "サイ",
+        "kundoku": "しば"
       },
       {
         "kanji": "桁",
@@ -1881,7 +1881,7 @@
             "meaning": "자릿수"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コウ",
         "kundoku": "けた"
       }
     ]
@@ -1906,8 +1906,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "にっけい / けいかん",
-        "kundoku": null
+        "ondoku": "ケイ",
+        "kundoku": "かつら"
       },
       {
         "kanji": "框",
@@ -1920,7 +1920,7 @@
             "meaning": "문틀"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キョウ",
         "kundoku": "かまち"
       },
       {
@@ -1940,7 +1940,7 @@
             "meaning": "오동나무"
           }
         ],
-        "ondoku": "きりばこ",
+        "ondoku": "トウ",
         "kundoku": "きり"
       },
       {
@@ -1954,7 +1954,7 @@
             "meaning": "나뭇가지 끝"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ショウ",
         "kundoku": "こずえ"
       },
       {
@@ -1974,7 +1974,7 @@
             "meaning": "가래나무"
           }
         ],
-        "ondoku": "あずさゆみ",
+        "ondoku": "シ",
         "kundoku": "あずさ"
       }
     ]
@@ -2013,8 +2013,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "はしご / うんてい",
-        "kundoku": null
+        "ondoku": "テイ",
+        "kundoku": "はしご"
       },
       {
         "kanji": "桶",
@@ -2033,7 +2033,7 @@
             "meaning": "나무통"
           }
         ],
-        "ondoku": "ゆとう",
+        "ondoku": "トウ",
         "kundoku": "おけ"
       },
       {
@@ -2047,7 +2047,7 @@
             "meaning": "배의 방향을 잡는 노/키"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ビ",
         "kundoku": "かじ"
       },
       {
@@ -2061,7 +2061,7 @@
             "meaning": "빗"
           }
         ],
-        "ondoku": "",
+        "ondoku": "シツ",
         "kundoku": "くし"
       }
     ]
@@ -2086,8 +2086,8 @@
             "meaning": "(분뇨 등을) 퍼내는 것"
           }
         ],
-        "ondoku": "",
-        "kundoku": "く / くみとり"
+        "ondoku": "キュウ",
+        "kundoku": "くむ"
       },
       {
         "kanji": "淵",
@@ -2106,7 +2106,7 @@
             "meaning": "깊은 연못/구렁텅이"
           }
         ],
-        "ondoku": "しんえん",
+        "ondoku": "エン",
         "kundoku": "ふち"
       },
       {
@@ -2120,8 +2120,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あつみ",
-        "kundoku": null
+        "ondoku": "アク",
+        "kundoku": ""
       },
       {
         "kanji": "渾",
@@ -2139,8 +2139,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こんしん / こんぜん",
-        "kundoku": null
+        "ondoku": "コン",
+        "kundoku": ""
       },
       {
         "kanji": "湊",
@@ -2153,7 +2153,7 @@
             "meaning": "항구/모이는 곳"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ソウ",
         "kundoku": "みなと"
       }
     ]
@@ -2173,8 +2173,8 @@
             "meaning": "(액체를) 가득 채우다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "たた"
+        "ondoku": "タン",
+        "kundoku": "たたえる"
       },
       {
         "kanji": "溜",
@@ -2193,8 +2193,8 @@
             "meaning": "쌓이다"
           }
         ],
-        "ondoku": "ためいき",
-        "kundoku": "た"
+        "ondoku": "リュウ",
+        "kundoku": "たまる・ためる"
       },
       {
         "kanji": "漱",
@@ -2213,8 +2213,8 @@
             "meaning": "가글/양치질"
           }
         ],
-        "ondoku": "なつめそうせき",
-        "kundoku": "うがい"
+        "ondoku": "ソウ",
+        "kundoku": "すすぐ・くちすすぐ"
       },
       {
         "kanji": "漕",
@@ -2227,8 +2227,8 @@
             "meaning": "(노를) 젓다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "こ"
+        "ondoku": "ソウ",
+        "kundoku": "こぐ"
       },
       {
         "kanji": "漣",
@@ -2241,7 +2241,7 @@
             "meaning": "잔물결"
           }
         ],
-        "ondoku": "",
+        "ondoku": "レン",
         "kundoku": "さざなみ"
       }
     ]
@@ -2261,7 +2261,7 @@
             "meaning": "물길"
           }
         ],
-        "ondoku": "",
+        "ondoku": "レイ",
         "kundoku": "みお"
       },
       {
@@ -2280,8 +2280,8 @@
             "meaning": "누명"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ぬ / ぬれぎぬ"
+        "ondoku": "ジュ",
+        "kundoku": "ぬれる・ぬらす"
       },
       {
         "kanji": "瀕",
@@ -2294,8 +2294,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ひんし",
-        "kundoku": null
+        "ondoku": "ヒン",
+        "kundoku": ""
       },
       {
         "kanji": "灘",
@@ -2308,7 +2308,7 @@
             "meaning": "바다의 여울"
           }
         ],
-        "ondoku": "",
+        "ondoku": "タン",
         "kundoku": "なだ"
       },
       {
@@ -2322,8 +2322,8 @@
             "meaning": "뜸"
           }
         ],
-        "ondoku": "",
-        "kundoku": "おきゅう"
+        "ondoku": "キュウ",
+        "kundoku": ""
       }
     ]
   },
@@ -2342,8 +2342,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゃくねつ",
-        "kundoku": null
+        "ondoku": "シャク",
+        "kundoku": ""
       },
       {
         "kanji": "烏",
@@ -2362,7 +2362,7 @@
             "meaning": "까마귀"
           }
         ],
-        "ondoku": "うーろんちゃ",
+        "ondoku": "ウ",
         "kundoku": "からす"
       },
       {
@@ -2376,8 +2376,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ばいせん",
-        "kundoku": null
+        "ondoku": "ホウ・バイ",
+        "kundoku": "あぶる"
       },
       {
         "kanji": "焚",
@@ -2390,8 +2390,8 @@
             "meaning": "(불을) 때다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "た"
+        "ondoku": "フン",
+        "kundoku": "たく"
       },
       {
         "kanji": "煉",
@@ -2409,8 +2409,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "れんごく / れんが",
-        "kundoku": null
+        "ondoku": "レン",
+        "kundoku": "ねる"
       }
     ]
   },
@@ -2434,8 +2434,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ろうそく / かしょく",
-        "kundoku": null
+        "ondoku": "ショク",
+        "kundoku": ""
       },
       {
         "kanji": "煽",
@@ -2448,8 +2448,8 @@
             "meaning": "부추기다/선동하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あお"
+        "ondoku": "セン",
+        "kundoku": "あおる"
       },
       {
         "kanji": "熔",
@@ -2462,8 +2462,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ようがん",
-        "kundoku": null
+        "ondoku": "ヨウ",
+        "kundoku": "とける"
       },
       {
         "kanji": "燻",
@@ -2482,8 +2482,8 @@
             "meaning": "이부시긴(무광은)"
           }
         ],
-        "ondoku": "くんせい",
-        "kundoku": "いぶ"
+        "ondoku": "クン",
+        "kundoku": "いぶす・くすべる"
       },
       {
         "kanji": "燿",
@@ -2496,8 +2496,8 @@
             "meaning": "빛나다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "かがや"
+        "ondoku": "ヨウ",
+        "kundoku": "かがやく"
       }
     ]
   },
@@ -2521,8 +2521,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "さんぜん / さんさん",
-        "kundoku": null
+        "ondoku": "サン",
+        "kundoku": ""
       },
       {
         "kanji": "燵",
@@ -2535,8 +2535,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こたつ",
-        "kundoku": null
+        "ondoku": "タツ",
+        "kundoku": ""
       },
       {
         "kanji": "爽",
@@ -2555,8 +2555,8 @@
             "meaning": "산뜻함/청량함"
           }
         ],
-        "ondoku": "そうかい",
-        "kundoku": "さわ"
+        "ondoku": "ソウ",
+        "kundoku": "さわやか"
       },
       {
         "kanji": "爾",
@@ -2574,8 +2574,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "じご / そつじ",
-        "kundoku": null
+        "ondoku": "ジ",
+        "kundoku": ""
       },
       {
         "kanji": "牆",
@@ -2588,8 +2588,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しょうへき",
-        "kundoku": null
+        "ondoku": "ショウ",
+        "kundoku": "かき"
       }
     ]
   },
@@ -2608,8 +2608,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "つうちょう",
-        "kundoku": null
+        "ondoku": "チョウ",
+        "kundoku": ""
       },
       {
         "kanji": "牙",
@@ -2627,8 +2627,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ぞうげ / どくが",
-        "kundoku": null
+        "ondoku": "ガ・ゲ",
+        "kundoku": "きば"
       },
       {
         "kanji": "牡",
@@ -2647,7 +2647,7 @@
             "meaning": "수컷"
           }
         ],
-        "ondoku": "かき",
+        "ondoku": "ボ",
         "kundoku": "おす"
       },
       {
@@ -2667,7 +2667,7 @@
             "meaning": "암컷"
           }
         ],
-        "ondoku": "ひんけい",
+        "ondoku": "ヒン",
         "kundoku": "めす"
       },
       {
@@ -2687,8 +2687,8 @@
             "meaning": "노리다/겨냥하다"
           }
         ],
-        "ondoku": "そげき",
-        "kundoku": "ねら"
+        "ondoku": "ソ",
+        "kundoku": "ねらう"
       }
     ]
   },
@@ -2713,8 +2713,8 @@
             "meaning": "비열하다/치사하다"
           }
         ],
-        "ondoku": "こうかつ",
-        "kundoku": "ずる"
+        "ondoku": "コウ",
+        "kundoku": "ずるい"
       },
       {
         "kanji": "狽",
@@ -2727,8 +2727,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ろうばい",
-        "kundoku": null
+        "ondoku": "ハイ",
+        "kundoku": ""
       },
       {
         "kanji": "狸",
@@ -2746,8 +2746,8 @@
             "meaning": "자는 척하기"
           }
         ],
-        "ondoku": "",
-        "kundoku": "たぬき / たぬきねいり"
+        "ondoku": "リ",
+        "kundoku": "たぬき"
       },
       {
         "kanji": "狼",
@@ -2766,7 +2766,7 @@
             "meaning": "늑대"
           }
         ],
-        "ondoku": "いっぴきおおかみ",
+        "ondoku": "ロウ",
         "kundoku": "おおかみ"
       }
     ]
@@ -2792,8 +2792,8 @@
             "meaning": "(시를) 읊다"
           }
         ],
-        "ondoku": "えいしょう",
-        "kundoku": "よ"
+        "ondoku": "エイ",
+        "kundoku": "よむ"
       },
       {
         "kanji": "藍",
@@ -2812,7 +2812,7 @@
             "meaning": "쪽빛"
           }
         ],
-        "ondoku": "がらん",
+        "ondoku": "ラン",
         "kundoku": "あい"
       },
       {
@@ -2832,8 +2832,8 @@
             "meaning": "시들다"
           }
         ],
-        "ondoku": "いしゅく",
-        "kundoku": "しお"
+        "ondoku": "イ",
+        "kundoku": "なえる・しぼむ"
       },
       {
         "kanji": "稲",
@@ -2852,8 +2852,8 @@
             "meaning": "벼"
           }
         ],
-        "ondoku": "いなびかり",
-        "kundoku": "いね"
+        "ondoku": "トウ",
+        "kundoku": "いね・いな"
       },
       {
         "kanji": "眉",
@@ -2872,7 +2872,7 @@
             "meaning": "눈썹"
           }
         ],
-        "ondoku": "みけん",
+        "ondoku": "ビ・ミ",
         "kundoku": "まゆ"
       }
     ]
@@ -2898,7 +2898,7 @@
             "meaning": "기와"
           }
         ],
-        "ondoku": "がかい",
+        "ondoku": "ガ",
         "kundoku": "かわら"
       },
       {
@@ -2918,8 +2918,8 @@
             "meaning": "으깨다/부수다"
           }
         ],
-        "ondoku": "いかいよう",
-        "kundoku": "つぶ"
+        "ondoku": "カイ",
+        "kundoku": "つぶす・つぶれる"
       },
       {
         "kanji": "渦",
@@ -2938,7 +2938,7 @@
             "meaning": "소용돌이"
           }
         ],
-        "ondoku": "かちゅう",
+        "ondoku": "カ",
         "kundoku": "うず"
       },
       {
@@ -2958,7 +2958,7 @@
             "meaning": "포구"
           }
         ],
-        "ondoku": "うらしまたろう",
+        "ondoku": "ホ",
         "kundoku": "うら"
       },
       {
@@ -2977,8 +2977,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "さた / とうた",
-        "kundoku": null
+        "ondoku": "タ",
+        "kundoku": ""
       }
     ]
   },
@@ -3003,8 +3003,8 @@
             "meaning": "(칼로) 베다"
           }
         ],
-        "ondoku": "ざんさつ",
-        "kundoku": "き"
+        "ondoku": "ザン",
+        "kundoku": "きる"
       },
       {
         "kanji": "拳",
@@ -3023,7 +3023,7 @@
             "meaning": "주먹"
           }
         ],
-        "ondoku": "けんじゅう",
+        "ondoku": "ケン",
         "kundoku": "こぶし"
       },
       {
@@ -3042,8 +3042,8 @@
             "meaning": "되돌리다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "もど"
+        "ondoku": "レイ",
+        "kundoku": "もどる・もどす"
       },
       {
         "kanji": "慰",
@@ -3062,8 +3062,8 @@
             "meaning": "위로하다"
           }
         ],
-        "ondoku": "いろう",
-        "kundoku": "なぐさ"
+        "ondoku": "イ",
+        "kundoku": "なぐさめる"
       },
       {
         "kanji": "弄",
@@ -3082,8 +3082,8 @@
             "meaning": "가지고 놀다"
           }
         ],
-        "ondoku": "ほんろう",
-        "kundoku": "もてあそ"
+        "ondoku": "ロウ",
+        "kundoku": "もてあそぶ"
       }
     ]
   },
@@ -3108,8 +3108,8 @@
             "meaning": "비단"
           }
         ],
-        "ondoku": "へいはく",
-        "kundoku": "きぬ"
+        "ondoku": "ハク",
+        "kundoku": ""
       },
       {
         "kanji": "巾",
@@ -3127,8 +3127,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "きんちゃく / ずきん",
-        "kundoku": null
+        "ondoku": "キン",
+        "kundoku": ""
       },
       {
         "kanji": "巧",
@@ -3147,8 +3147,8 @@
             "meaning": "솜씨/교묘함"
           }
         ],
-        "ondoku": "こうみょう",
-        "kundoku": "たく"
+        "ondoku": "コウ",
+        "kundoku": "たくみ"
       },
       {
         "kanji": "塞",
@@ -3167,8 +3167,8 @@
             "meaning": "막히다"
           }
         ],
-        "ondoku": "ようさい",
-        "kundoku": "ふさ"
+        "ondoku": "サイ・ソク",
+        "kundoku": "ふさぐ"
       },
       {
         "kanji": "塑",
@@ -3186,8 +3186,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ちょうそ / そぞう",
-        "kundoku": null
+        "ondoku": "ソ",
+        "kundoku": ""
       }
     ]
   },
@@ -3212,8 +3212,8 @@
             "meaning": "목메다"
           }
         ],
-        "ondoku": "いんこう",
-        "kundoku": "むせ"
+        "ondoku": "イン・エン",
+        "kundoku": "のど・むせぶ"
       },
       {
         "kanji": "凄",
@@ -3232,8 +3232,8 @@
             "meaning": "대단하다/무섭다"
           }
         ],
-        "ondoku": "せいさん",
-        "kundoku": "すご"
+        "ondoku": "セイ",
+        "kundoku": "すごい・すさまじい"
       },
       {
         "kanji": "僅",
@@ -3252,8 +3252,8 @@
             "meaning": "겨우/불과"
           }
         ],
-        "ondoku": "きんしょう",
-        "kundoku": "わず"
+        "ondoku": "キン",
+        "kundoku": "わずか"
       },
       {
         "kanji": "侯",
@@ -3266,8 +3266,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こうしゃく",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": ""
       },
       {
         "kanji": "丼",
@@ -3286,7 +3286,7 @@
             "meaning": "덮밥"
           }
         ],
-        "ondoku": "どんぶりかんじょう",
+        "ondoku": "トン・ドン",
         "kundoku": "どんぶり"
       }
     ]
@@ -3312,7 +3312,7 @@
             "meaning": "사슴"
           }
         ],
-        "ondoku": "ばか",
+        "ondoku": "ロク",
         "kundoku": "しか"
       },
       {
@@ -3331,8 +3331,8 @@
             "meaning": "버리는 말"
           }
         ],
-        "ondoku": "",
-        "kundoku": "こま / すてごま"
+        "ondoku": "ク",
+        "kundoku": "こま"
       },
       {
         "kanji": "餅",
@@ -3350,7 +3350,7 @@
             "meaning": "떡은 떡집에서"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ヘイ",
         "kundoku": "もち"
       },
       {
@@ -3370,8 +3370,8 @@
             "meaning": "완고함"
           }
         ],
-        "ondoku": "がんば",
-        "kundoku": "かたく"
+        "ondoku": "ガン",
+        "kundoku": "かたくな"
       },
       {
         "kanji": "韓",
@@ -3389,8 +3389,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "かんこく / かんりゅう",
-        "kundoku": null
+        "ondoku": "カン",
+        "kundoku": ""
       }
     ]
   },
@@ -3415,7 +3415,7 @@
             "meaning": "어둠"
           }
         ],
-        "ondoku": "やみとりひき",
+        "ondoku": "アン",
         "kundoku": "やみ"
       },
       {
@@ -3435,7 +3435,7 @@
             "meaning": "냄비/전골 요리"
           }
         ],
-        "ondoku": "なべもの",
+        "ondoku": "カ",
         "kundoku": "なべ"
       },
       {
@@ -3454,8 +3454,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "らつわん / しんらつ",
-        "kundoku": null
+        "ondoku": "ラツ",
+        "kundoku": "からい"
       },
       {
         "kanji": "謁",
@@ -3473,8 +3473,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あっけん / はいえつ",
-        "kundoku": null
+        "ondoku": "エツ",
+        "kundoku": ""
       },
       {
         "kanji": "諧",
@@ -3487,8 +3487,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "かいぎゃく",
-        "kundoku": null
+        "ondoku": "カイ",
+        "kundoku": ""
       }
     ]
   },
@@ -3513,8 +3513,8 @@
             "meaning": "포기하다"
           }
         ],
-        "ondoku": "ていねん",
-        "kundoku": "あきら"
+        "ondoku": "テイ",
+        "kundoku": "あきらめる"
       },
       {
         "kanji": "虹",
@@ -3533,7 +3533,7 @@
             "meaning": "무지개"
           }
         ],
-        "ondoku": "こうさい",
+        "ondoku": "コウ",
         "kundoku": "にじ"
       },
       {
@@ -3553,7 +3553,7 @@
             "meaning": "연꽃"
           }
         ],
-        "ondoku": "れんげ",
+        "ondoku": "レン",
         "kundoku": "はす"
       },
       {
@@ -3573,7 +3573,7 @@
             "meaning": "뚜껑"
           }
         ],
-        "ondoku": "がいぜんせい",
+        "ondoku": "ガイ",
         "kundoku": "ふた"
       },
       {
@@ -3593,7 +3593,7 @@
             "meaning": "가시넝쿨"
           }
         ],
-        "ondoku": "いばらきけん",
+        "ondoku": "シ",
         "kundoku": "いばら"
       }
     ]
@@ -3618,8 +3618,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "じんぞう / じんふぜん",
-        "kundoku": null
+        "ondoku": "ジン",
+        "kundoku": ""
       },
       {
         "kanji": "羞",
@@ -3637,8 +3637,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゅうちしん / しゅうち",
-        "kundoku": null
+        "ondoku": "シュウ",
+        "kundoku": "はじる"
       },
       {
         "kanji": "罵",
@@ -3657,8 +3657,8 @@
             "meaning": "욕하다/비난하다"
           }
         ],
-        "ondoku": "ばとう",
-        "kundoku": "ののし"
+        "ondoku": "バ",
+        "kundoku": "ののしる"
       },
       {
         "kanji": "穂",
@@ -3677,7 +3677,7 @@
             "meaning": "이삭"
           }
         ],
-        "ondoku": "ほさき",
+        "ondoku": "スイ",
         "kundoku": "ほ"
       },
       {
@@ -3696,8 +3696,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けいこ / こっけい",
-        "kundoku": null
+        "ondoku": "ケイ",
+        "kundoku": ""
       }
     ]
   },
@@ -3722,7 +3722,7 @@
             "meaning": "주춧돌/토대"
           }
         ],
-        "ondoku": "きそ",
+        "ondoku": "ソ",
         "kundoku": "いしずえ"
       },
       {
@@ -3741,8 +3741,8 @@
             "meaning": "판박이"
           }
         ],
-        "ondoku": "",
-        "kundoku": "うり / うりふたつ"
+        "ondoku": "カ",
+        "kundoku": "うり"
       },
       {
         "kanji": "爽",
@@ -3761,8 +3761,8 @@
             "meaning": "산뜻함/청량함"
           }
         ],
-        "ondoku": "そうかい",
-        "kundoku": "さわ"
+        "ondoku": "ソウ",
+        "kundoku": "さわやか"
       },
       {
         "kanji": "為",
@@ -3781,8 +3781,8 @@
             "meaning": "~를 위해"
           }
         ],
-        "ondoku": "かわせ",
-        "kundoku": "ため"
+        "ondoku": "イ",
+        "kundoku": "ため・なす"
       },
       {
         "kanji": "沙",
@@ -3801,8 +3801,8 @@
             "meaning": "잔모래"
           }
         ],
-        "ondoku": "さた",
-        "kundoku": "いさご"
+        "ondoku": "サ",
+        "kundoku": "すな"
       }
     ]
   },
@@ -3827,7 +3827,7 @@
             "meaning": "밤"
           }
         ],
-        "ondoku": "くりいろ",
+        "ondoku": "リツ",
         "kundoku": "くり"
       },
       {
@@ -3846,8 +3846,8 @@
             "meaning": "성씨로 쓰일 때의 독음입니다."
           }
         ],
-        "ondoku": "",
-        "kundoku": "すもも / り"
+        "ondoku": "リ",
+        "kundoku": "すもも"
       },
       {
         "kanji": "旱",
@@ -3860,8 +3860,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "かんばつ",
-        "kundoku": null
+        "ondoku": "カン",
+        "kundoku": "ひでり"
       },
       {
         "kanji": "旋",
@@ -3879,8 +3879,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "せんかい / がいせん",
-        "kundoku": null
+        "ondoku": "セン",
+        "kundoku": ""
       },
       {
         "kanji": "撮",
@@ -3899,8 +3899,8 @@
             "meaning": "(사진/영상을) 찍다"
           }
         ],
-        "ondoku": "さつえい",
-        "kundoku": "と"
+        "ondoku": "サツ",
+        "kundoku": "とる"
       }
     ]
   },
@@ -3925,8 +3925,8 @@
             "meaning": "짜다"
           }
         ],
-        "ondoku": "さくしゅ",
-        "kundoku": "しぼ"
+        "ondoku": "サク",
+        "kundoku": "しぼる"
       },
       {
         "kanji": "捉",
@@ -3945,8 +3945,8 @@
             "meaning": "포착하다/잡다"
           }
         ],
-        "ondoku": "ほそく",
-        "kundoku": "とら"
+        "ondoku": "ソク",
+        "kundoku": "とらえる"
       },
       {
         "kanji": "拭",
@@ -3965,8 +3965,8 @@
             "meaning": "닦다"
           }
         ],
-        "ondoku": "ふっしょく",
-        "kundoku": "ふ"
+        "ondoku": "ショク・シキ",
+        "kundoku": "ふく・ぬぐう"
       },
       {
         "kanji": "拉",
@@ -3979,8 +3979,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "らち",
-        "kundoku": null
+        "ondoku": "ラ・ラツ",
+        "kundoku": ""
       },
       {
         "kanji": "或",
@@ -3998,8 +3998,8 @@
             "meaning": "어느 날"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ある / あ"
+        "ondoku": "ワク",
+        "kundoku": "あるいは"
       }
     ]
   },
@@ -4024,8 +4024,8 @@
             "meaning": "일본 사람의 이름으로 아주 인기가 많"
           }
         ],
-        "ondoku": "れいり",
-        "kundoku": "れい"
+        "ondoku": "レイ",
+        "kundoku": ""
       },
       {
         "kanji": "庇",
@@ -4043,8 +4043,8 @@
             "meaning": "감싸다/편들다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ひさし / かば"
+        "ondoku": "ヒ",
+        "kundoku": "ひさし・かばう"
       },
       {
         "kanji": "岡",
@@ -4057,7 +4057,7 @@
             "meaning": "언덕"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コウ",
         "kundoku": "おか"
       },
       {
@@ -4077,8 +4077,8 @@
             "meaning": "일본 남자 이름으로 자주 쓰입니다"
           }
         ],
-        "ondoku": "ぎょうしゅん",
-        "kundoku": "たか"
+        "ondoku": "ギョウ",
+        "kundoku": ""
       },
       {
         "kanji": "堰",
@@ -4096,8 +4096,8 @@
             "meaning": "막다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "せき / せ"
+        "ondoku": "エン",
+        "kundoku": "せき"
       }
     ]
   },
@@ -4121,8 +4121,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "はにわ / ふしょく",
-        "kundoku": null
+        "ondoku": "ショク",
+        "kundoku": "はに"
       },
       {
         "kanji": "唄",
@@ -4141,7 +4141,7 @@
             "meaning": "우타이테"
           }
         ],
-        "ondoku": "こうた",
+        "ondoku": "バイ",
         "kundoku": "うた"
       },
       {
@@ -4160,8 +4160,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "せっぷん / ふんぷん",
-        "kundoku": null
+        "ondoku": "フン",
+        "kundoku": ""
       },
       {
         "kanji": "叱",
@@ -4180,8 +4180,8 @@
             "meaning": "꾸짖다"
           }
         ],
-        "ondoku": "しった",
-        "kundoku": "しか"
+        "ondoku": "シツ",
+        "kundoku": "しかる"
       },
       {
         "kanji": "嘩",
@@ -4194,8 +4194,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けんか",
-        "kundoku": null
+        "ondoku": "カ",
+        "kundoku": ""
       }
     ]
   },
@@ -4219,8 +4219,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けんそう / けんでん",
-        "kundoku": null
+        "ondoku": "ケン",
+        "kundoku": "やかましい"
       },
       {
         "kanji": "嘘",
@@ -4238,7 +4238,7 @@
             "meaning": "새빨간 거짓말"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キョ",
         "kundoku": "うそ"
       },
       {
@@ -4257,8 +4257,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "じゅうてん / ほてん",
-        "kundoku": null
+        "ondoku": "テン",
+        "kundoku": ""
       },
       {
         "kanji": "壱",
@@ -4271,8 +4271,8 @@
             "meaning": "일(1)"
           }
         ],
-        "ondoku": "",
-        "kundoku": "いち"
+        "ondoku": "イチ",
+        "kundoku": ""
       },
       {
         "kanji": "奢",
@@ -4291,8 +4291,8 @@
             "meaning": "한턱내다"
           }
         ],
-        "ondoku": "しゃし",
-        "kundoku": "おご"
+        "ondoku": "シャ",
+        "kundoku": "おごる"
       }
     ]
   },
@@ -4317,7 +4317,7 @@
             "meaning": "사위"
           }
         ],
-        "ondoku": "はなむこ",
+        "ondoku": "セイ",
         "kundoku": "むこ"
       },
       {
@@ -4336,8 +4336,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "えひめけん / さいえん",
-        "kundoku": null
+        "ondoku": "エン",
+        "kundoku": "ひめ"
       },
       {
         "kanji": "嬬",
@@ -4350,8 +4350,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "つまごいむら",
-        "kundoku": null
+        "ondoku": "ジュ",
+        "kundoku": ""
       },
       {
         "kanji": "孜",
@@ -4364,8 +4364,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しし",
-        "kundoku": null
+        "ondoku": "シ",
+        "kundoku": ""
       },
       {
         "kanji": "宦",
@@ -4378,8 +4378,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "かんがん",
-        "kundoku": null
+        "ondoku": "カン",
+        "kundoku": ""
       }
     ]
   },
@@ -4403,8 +4403,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "びょうぶ / へいしょう",
-        "kundoku": null
+        "ondoku": "ヘイ・ビョウ",
+        "kundoku": ""
       },
       {
         "kanji": "峻",
@@ -4422,8 +4422,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゅんけん / しゅんげん",
-        "kundoku": null
+        "ondoku": "シュン",
+        "kundoku": "けわしい"
       },
       {
         "kanji": "嶺",
@@ -4442,7 +4442,7 @@
             "meaning": "산봉우리"
           }
         ],
-        "ondoku": "れいなん",
+        "ondoku": "レイ・リョウ",
         "kundoku": "みね"
       },
       {
@@ -4461,8 +4461,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "げんすい / しょうすい",
-        "kundoku": null
+        "ondoku": "スイ",
+        "kundoku": ""
       },
       {
         "kanji": "幌",
@@ -4481,7 +4481,7 @@
             "meaning": "덮개"
           }
         ],
-        "ondoku": "さっぽろ",
+        "ondoku": "コウ",
         "kundoku": "ほろ"
       }
     ]
@@ -4506,8 +4506,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こうほう / こうぼう",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": "ひろい"
       },
       {
         "kanji": "彙",
@@ -4520,8 +4520,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ごい",
-        "kundoku": null
+        "ondoku": "イ",
+        "kundoku": ""
       },
       {
         "kanji": "徽",
@@ -4534,8 +4534,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "きしょう",
-        "kundoku": null
+        "ondoku": "キ",
+        "kundoku": ""
       },
       {
         "kanji": "惣",
@@ -4553,8 +4553,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "そうざい / そうりょう",
-        "kundoku": null
+        "ondoku": "ソウ",
+        "kundoku": ""
       },
       {
         "kanji": "憬",
@@ -4567,8 +4567,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しょうけい",
-        "kundoku": null
+        "ondoku": "ケイ",
+        "kundoku": ""
       }
     ]
   },
@@ -4587,8 +4587,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "へいじゅう",
-        "kundoku": null
+        "ondoku": "ジュウ",
+        "kundoku": "えびす"
       },
       {
         "kanji": "戚",
@@ -4601,8 +4601,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しんせき",
-        "kundoku": null
+        "ondoku": "セキ",
+        "kundoku": ""
       },
       {
         "kanji": "戴",
@@ -4620,8 +4620,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ちょうだい / たいかん",
-        "kundoku": null
+        "ondoku": "タイ",
+        "kundoku": "いただく"
       },
       {
         "kanji": "拶",
@@ -4634,8 +4634,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あいさつ",
-        "kundoku": null
+        "ondoku": "サツ",
+        "kundoku": ""
       },
       {
         "kanji": "挨",
@@ -4648,8 +4648,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あいさつ",
-        "kundoku": null
+        "ondoku": "アイ",
+        "kundoku": ""
       }
     ]
   },
@@ -4673,8 +4673,8 @@
             "meaning": "정렬하다/맞추다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "そろ"
+        "ondoku": "セン",
+        "kundoku": "そろう・そろえる"
       },
       {
         "kanji": "揖",
@@ -4687,8 +4687,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ゆうじょう",
-        "kundoku": null
+        "ondoku": "ユウ",
+        "kundoku": ""
       },
       {
         "kanji": "撫",
@@ -4706,8 +4706,8 @@
             "meaning": "처진 어깨"
           }
         ],
-        "ondoku": "",
-        "kundoku": "な"
+        "ondoku": "ブ",
+        "kundoku": "なでる"
       },
       {
         "kanji": "擢",
@@ -4720,8 +4720,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ばってき",
-        "kundoku": null
+        "ondoku": "テキ",
+        "kundoku": "ぬく"
       },
       {
         "kanji": "斡",
@@ -4734,8 +4734,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あっせん",
-        "kundoku": null
+        "ondoku": "アツ",
+        "kundoku": ""
       }
     ]
   },
@@ -4759,8 +4759,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "おうせい / おうじつ",
-        "kundoku": null
+        "ondoku": "オウ",
+        "kundoku": ""
       },
       {
         "kanji": "昂",
@@ -4778,8 +4778,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こうよう / こうふん",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": ""
       },
       {
         "kanji": "昏",
@@ -4797,8 +4797,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こんすい / こんめい",
-        "kundoku": null
+        "ondoku": "コン",
+        "kundoku": "くらい"
       },
       {
         "kanji": "晋",
@@ -4816,8 +4816,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しんざん / あべしんぞう",
-        "kundoku": null
+        "ondoku": "シン",
+        "kundoku": ""
       },
       {
         "kanji": "暢",
@@ -4835,8 +4835,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "りゅうちょう / のんき",
-        "kundoku": null
+        "ondoku": "チョウ",
+        "kundoku": ""
       }
     ]
   },
@@ -4860,8 +4860,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あいまい / あいまいや",
-        "kundoku": null
+        "ondoku": "アイ",
+        "kundoku": ""
       },
       {
         "kanji": "曾",
@@ -4879,8 +4879,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "そうそふ / みぞう",
-        "kundoku": null
+        "ondoku": "ソウ・ゾ",
+        "kundoku": ""
       },
       {
         "kanji": "朋",
@@ -4898,8 +4898,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ほうゆう / ほうとう",
-        "kundoku": null
+        "ondoku": "ホウ",
+        "kundoku": "とも"
       },
       {
         "kanji": "朧",
@@ -4918,8 +4918,8 @@
             "meaning": "어렴풋함"
           }
         ],
-        "ondoku": "おぼろづき",
-        "kundoku": "おぼろげ"
+        "ondoku": "ロウ",
+        "kundoku": "おぼろ"
       },
       {
         "kanji": "杏",
@@ -4938,7 +4938,7 @@
             "meaning": "살구"
           }
         ],
-        "ondoku": "あんにん",
+        "ondoku": "キョウ・アン",
         "kundoku": "あんず"
       }
     ]
@@ -4964,7 +4964,7 @@
             "meaning": "숲"
           }
         ],
-        "ondoku": "ずさん",
+        "ondoku": "ト",
         "kundoku": "もり"
       },
       {
@@ -4983,8 +4983,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しばいぬ / しばがき",
-        "kundoku": null
+        "ondoku": "サイ",
+        "kundoku": "しば"
       },
       {
         "kanji": "桁",
@@ -5003,7 +5003,7 @@
             "meaning": "자릿수"
           }
         ],
-        "ondoku": "けたはし",
+        "ondoku": "コウ",
         "kundoku": "けた"
       },
       {
@@ -5023,7 +5023,7 @@
             "meaning": "계수나무"
           }
         ],
-        "ondoku": "にっけい",
+        "ondoku": "ケイ",
         "kundoku": "かつら"
       },
       {
@@ -5037,7 +5037,7 @@
             "meaning": "문틀"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キョウ",
         "kundoku": "かまち"
       }
     ]
@@ -5063,7 +5063,7 @@
             "meaning": "오동나무"
           }
         ],
-        "ondoku": "きりばこ",
+        "ondoku": "トウ",
         "kundoku": "きり"
       },
       {
@@ -5077,7 +5077,7 @@
             "meaning": "나뭇가지 끝"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ショウ",
         "kundoku": "こずえ"
       },
       {
@@ -5097,7 +5097,7 @@
             "meaning": "가래나무"
           }
         ],
-        "ondoku": "あずさゆみ",
+        "ondoku": "シ",
         "kundoku": "あずさ"
       },
       {
@@ -5130,8 +5130,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "はしご / うんてい",
-        "kundoku": null
+        "ondoku": "テイ",
+        "kundoku": "はしご"
       }
     ]
   },
@@ -5156,7 +5156,7 @@
             "meaning": "나무통"
           }
         ],
-        "ondoku": "ゆとう",
+        "ondoku": "トウ",
         "kundoku": "おけ"
       },
       {
@@ -5170,7 +5170,7 @@
             "meaning": "배를 젓는 노(키)"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ビ",
         "kundoku": "かじ"
       },
       {
@@ -5184,7 +5184,7 @@
             "meaning": "빗"
           }
         ],
-        "ondoku": "",
+        "ondoku": "シツ",
         "kundoku": "くし"
       },
       {
@@ -5203,8 +5203,8 @@
             "meaning": "(분뇨 등을) 퍼내는 것"
           }
         ],
-        "ondoku": "",
-        "kundoku": "く / くみとり"
+        "ondoku": "キュウ",
+        "kundoku": "くむ"
       },
       {
         "kanji": "淵",
@@ -5223,7 +5223,7 @@
             "meaning": "깊은 못"
           }
         ],
-        "ondoku": "しんえん",
+        "ondoku": "エン",
         "kundoku": "ふち"
       }
     ]
@@ -5243,8 +5243,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "あつみ",
-        "kundoku": null
+        "ondoku": "アク",
+        "kundoku": ""
       },
       {
         "kanji": "渾",
@@ -5262,8 +5262,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こんしん / こんぜん",
-        "kundoku": null
+        "ondoku": "コン",
+        "kundoku": ""
       },
       {
         "kanji": "湊",
@@ -5276,7 +5276,7 @@
             "meaning": "항구/모이는 곳"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ソウ",
         "kundoku": "みなと"
       },
       {
@@ -5290,8 +5290,8 @@
             "meaning": "(액체를) 가득 채우다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "たた"
+        "ondoku": "タン",
+        "kundoku": "たたえる"
       },
       {
         "kanji": "溜",
@@ -5310,8 +5310,8 @@
             "meaning": "쌓이다"
           }
         ],
-        "ondoku": "ためいき",
-        "kundoku": "た"
+        "ondoku": "リュウ",
+        "kundoku": "たまる・ためる"
       }
     ]
   },
@@ -5336,8 +5336,8 @@
             "meaning": "가글/양치질"
           }
         ],
-        "ondoku": "なつめそうせき",
-        "kundoku": "うがい"
+        "ondoku": "ソウ",
+        "kundoku": "すすぐ・くちすすぐ"
       },
       {
         "kanji": "漕",
@@ -5350,8 +5350,8 @@
             "meaning": "(노를) 젓다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "こ"
+        "ondoku": "ソウ",
+        "kundoku": "こぐ"
       },
       {
         "kanji": "漣",
@@ -5364,7 +5364,7 @@
             "meaning": "잔물결"
           }
         ],
-        "ondoku": "",
+        "ondoku": "レン",
         "kundoku": "さざなみ"
       },
       {
@@ -5378,7 +5378,7 @@
             "meaning": "물길"
           }
         ],
-        "ondoku": "",
+        "ondoku": "レイ",
         "kundoku": "みお"
       },
       {
@@ -5397,8 +5397,8 @@
             "meaning": "누명"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ぬ / ぬれぎぬ"
+        "ondoku": "ジュ",
+        "kundoku": "ぬれる・ぬらす"
       }
     ]
   },
@@ -5423,8 +5423,8 @@
             "meaning": "(위기에) 처하다"
           }
         ],
-        "ondoku": "ひんし",
-        "kundoku": "ひん"
+        "ondoku": "ヒン",
+        "kundoku": ""
       },
       {
         "kanji": "灘",
@@ -5437,7 +5437,7 @@
             "meaning": "바다의 여울"
           }
         ],
-        "ondoku": "",
+        "ondoku": "タン",
         "kundoku": "なだ"
       },
       {
@@ -5451,8 +5451,8 @@
             "meaning": "뜸"
           }
         ],
-        "ondoku": "",
-        "kundoku": "おきゅう"
+        "ondoku": "キュウ",
+        "kundoku": ""
       },
       {
         "kanji": "灼",
@@ -5465,8 +5465,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゃくねつ",
-        "kundoku": null
+        "ondoku": "シャク",
+        "kundoku": ""
       },
       {
         "kanji": "烏",
@@ -5485,7 +5485,7 @@
             "meaning": "까마귀"
           }
         ],
-        "ondoku": "うーろんちゃ",
+        "ondoku": "ウ",
         "kundoku": "からす"
       }
     ]
@@ -5505,8 +5505,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ばいせん",
-        "kundoku": null
+        "ondoku": "ホウ・バイ",
+        "kundoku": "あぶる"
       },
       {
         "kanji": "焚",
@@ -5519,8 +5519,8 @@
             "meaning": "(불을) 때다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "た"
+        "ondoku": "フン",
+        "kundoku": "たく"
       },
       {
         "kanji": "煉",
@@ -5538,8 +5538,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "れんごく / れんが",
-        "kundoku": null
+        "ondoku": "レン",
+        "kundoku": "ねる"
       },
       {
         "kanji": "燭",
@@ -5557,8 +5557,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ろうそく / かしょく",
-        "kundoku": null
+        "ondoku": "ショク",
+        "kundoku": ""
       },
       {
         "kanji": "煽",
@@ -5571,8 +5571,8 @@
             "meaning": "부추기다/선동하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あお"
+        "ondoku": "セン",
+        "kundoku": "あおる"
       }
     ]
   },
@@ -5591,8 +5591,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ようがん",
-        "kundoku": null
+        "ondoku": "ヨウ",
+        "kundoku": "とける"
       },
       {
         "kanji": "燻",
@@ -5611,8 +5611,8 @@
             "meaning": "이부시긴(무광은)"
           }
         ],
-        "ondoku": "くんせい",
-        "kundoku": "いぶ"
+        "ondoku": "クン",
+        "kundoku": "いぶす・くすべる"
       },
       {
         "kanji": "燿",
@@ -5625,8 +5625,8 @@
             "meaning": "빛나다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "かがや"
+        "ondoku": "ヨウ",
+        "kundoku": "かがやく"
       },
       {
         "kanji": "燦",
@@ -5644,8 +5644,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "さんぜん / さんさん",
-        "kundoku": null
+        "ondoku": "サン",
+        "kundoku": ""
       },
       {
         "kanji": "燵",
@@ -5658,8 +5658,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こたつ",
-        "kundoku": null
+        "ondoku": "タツ",
+        "kundoku": ""
       }
     ]
   },
@@ -5684,7 +5684,7 @@
             "meaning": "화살촉"
           }
         ],
-        "ondoku": "かぶらき",
+        "ondoku": "テキ",
         "kundoku": "かぶら"
       },
       {
@@ -5704,8 +5704,8 @@
             "meaning": "큰 방울"
           }
         ],
-        "ondoku": "どうたく",
-        "kundoku": "たく"
+        "ondoku": "タク",
+        "kundoku": ""
       },
       {
         "kanji": "閃",
@@ -5724,8 +5724,8 @@
             "meaning": "번뜩이다"
           }
         ],
-        "ondoku": "せんこう",
-        "kundoku": "ひらめ"
+        "ondoku": "セン",
+        "kundoku": "ひらめく"
       },
       {
         "kanji": "閏",
@@ -5743,8 +5743,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "うるうどし / じゅんげつ",
-        "kundoku": null
+        "ondoku": "ジュン",
+        "kundoku": "うるう"
       },
       {
         "kanji": "阜",
@@ -5757,8 +5757,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ぎふけん",
-        "kundoku": null
+        "ondoku": "フ",
+        "kundoku": ""
       }
     ]
   },
@@ -5783,7 +5783,7 @@
             "meaning": "모퉁이/구석"
           }
         ],
-        "ondoku": "くまとり",
+        "ondoku": "ワイ",
         "kundoku": "くま"
       },
       {
@@ -5803,7 +5803,7 @@
             "meaning": "틈/빈틈"
           }
         ],
-        "ondoku": "すきま",
+        "ondoku": "ゲキ",
         "kundoku": "すき"
       },
       {
@@ -5822,7 +5822,7 @@
             "meaning": "참새 눈물만큼"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ジャク",
         "kundoku": "すずめ"
       },
       {
@@ -5841,8 +5841,8 @@
             "meaning": "히나마츠리"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ひな / ひなまつり"
+        "ondoku": "スウ",
+        "kundoku": "ひな"
       },
       {
         "kanji": "霞",
@@ -5860,8 +5860,8 @@
             "meaning": "안개가 끼다/희미해지다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "かすみ / かす"
+        "ondoku": "カ",
+        "kundoku": "かすみ"
       }
     ]
   },
@@ -5886,8 +5886,8 @@
             "meaning": "일본 남자 이름으로 아주 많이 쓰이는"
           }
         ],
-        "ondoku": "やすくに",
-        "kundoku": "やす"
+        "ondoku": "セイ",
+        "kundoku": "やすい"
       },
       {
         "kanji": "鞍",
@@ -5905,8 +5905,8 @@
             "meaning": "직업이나 지지 대상을 바꾸는 것"
           }
         ],
-        "ondoku": "",
-        "kundoku": "くら / くらがえ"
+        "ondoku": "アン",
+        "kundoku": "くら"
       },
       {
         "kanji": "鞠",
@@ -5925,7 +5925,7 @@
             "meaning": "공"
           }
         ],
-        "ondoku": "けまり",
+        "ondoku": "キク",
         "kundoku": "まり"
       },
       {
@@ -5939,8 +5939,8 @@
             "meaning": "매우/자못"
           }
         ],
-        "ondoku": "",
-        "kundoku": "すこぶ"
+        "ondoku": "ハ",
+        "kundoku": "すこぶる"
       },
       {
         "kanji": "頸",
@@ -5959,7 +5959,7 @@
             "meaning": "목"
           }
         ],
-        "ondoku": "けいどうみゃく",
+        "ondoku": "ケイ",
         "kundoku": "くび"
       }
     ]
@@ -5984,8 +5984,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "てんまつ / てんぷく",
-        "kundoku": null
+        "ondoku": "テン",
+        "kundoku": ""
       },
       {
         "kanji": "飴",
@@ -6003,7 +6003,7 @@
             "meaning": "당근과 채찍"
           }
         ],
-        "ondoku": "",
+        "ondoku": "イ",
         "kundoku": "あめ"
       },
       {
@@ -6023,7 +6023,7 @@
             "meaning": "먹이"
           }
         ],
-        "ondoku": "えじき",
+        "ondoku": "ジ",
         "kundoku": "えさ"
       },
       {
@@ -6043,8 +6043,8 @@
             "meaning": "대접하다"
           }
         ],
-        "ondoku": "きょうえん",
-        "kundoku": "もてな"
+        "ondoku": "キョウ",
+        "kundoku": ""
       },
       {
         "kanji": "馨",
@@ -6062,8 +6062,8 @@
             "meaning": "일본 사람 이름으로 남녀 불문하고 정"
           }
         ],
-        "ondoku": "",
-        "kundoku": "かお / かおる"
+        "ondoku": "ケイ",
+        "kundoku": "かおり"
       }
     ]
   },
@@ -6087,8 +6087,8 @@
             "meaning": "진수성찬/잘 먹었습니다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "か / ちそう"
+        "ondoku": "チ",
+        "kundoku": "はせる"
       },
       {
         "kanji": "駿",
@@ -6106,8 +6106,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゅんめ / するが",
-        "kundoku": null
+        "ondoku": "シュン",
+        "kundoku": ""
       },
       {
         "kanji": "騨",
@@ -6120,8 +6120,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ひだ",
-        "kundoku": null
+        "ondoku": "タン",
+        "kundoku": ""
       },
       {
         "kanji": "驀",
@@ -6134,8 +6134,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ばくしん",
-        "kundoku": null
+        "ondoku": "バク",
+        "kundoku": ""
       },
       {
         "kanji": "髭",
@@ -6153,7 +6153,7 @@
             "meaning": "면도기"
           }
         ],
-        "ondoku": "",
+        "ondoku": "シ",
         "kundoku": "ひげ"
       }
     ]
@@ -6178,8 +6178,8 @@
             "meaning": "코이노보리"
           }
         ],
-        "ondoku": "",
-        "kundoku": "こい / こいのぼり"
+        "ondoku": "リ",
+        "kundoku": "こい"
       },
       {
         "kanji": "鯛",
@@ -6197,8 +6197,8 @@
             "meaning": "도미빵"
           }
         ],
-        "ondoku": "",
-        "kundoku": "たい / たいやき"
+        "ondoku": "チョウ",
+        "kundoku": "たい"
       },
       {
         "kanji": "鰐",
@@ -6211,7 +6211,7 @@
             "meaning": "악어"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ガク",
         "kundoku": "わに"
       },
       {
@@ -6231,7 +6231,7 @@
             "meaning": "비둘기"
           }
         ],
-        "ondoku": "はとどけい",
+        "ondoku": "キュウ",
         "kundoku": "はと"
       },
       {
@@ -6251,7 +6251,7 @@
             "meaning": "갈매기"
           }
         ],
-        "ondoku": "もりおうがい",
+        "ondoku": "オウ",
         "kundoku": "かもめ"
       }
     ]
@@ -6277,8 +6277,8 @@
             "meaning": "큰 새/기러기"
           }
         ],
-        "ondoku": "こうこく",
-        "kundoku": "おおとり"
+        "ondoku": "コウ",
+        "kundoku": ""
       },
       {
         "kanji": "鵜",
@@ -6296,8 +6296,8 @@
             "meaning": "통째로 삼킴"
           }
         ],
-        "ondoku": "",
-        "kundoku": "う / うのみ"
+        "ondoku": "テイ",
+        "kundoku": "う"
       },
       {
         "kanji": "鶯",
@@ -6316,7 +6316,7 @@
             "meaning": "휘파람새"
           }
         ],
-        "ondoku": "うぐいすば",
+        "ondoku": "オウ",
         "kundoku": "うぐいす"
       },
       {
@@ -6336,7 +6336,7 @@
             "meaning": "독수리"
           }
         ],
-        "ondoku": "わしづか",
+        "ondoku": "シュウ",
         "kundoku": "わし"
       },
       {
@@ -6356,7 +6356,7 @@
             "meaning": "매"
           }
         ],
-        "ondoku": "たかは",
+        "ondoku": "オウ・ヨウ",
         "kundoku": "たか"
       }
     ]
@@ -6376,8 +6376,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "せっけん",
-        "kundoku": null
+        "ondoku": "ケン",
+        "kundoku": ""
       },
       {
         "kanji": "麒",
@@ -6390,8 +6390,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "きりん",
-        "kundoku": null
+        "ondoku": "キ",
+        "kundoku": ""
       },
       {
         "kanji": "麟",
@@ -6404,8 +6404,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "きりん",
-        "kundoku": null
+        "ondoku": "リン",
+        "kundoku": ""
       },
       {
         "kanji": "麹",
@@ -6418,7 +6418,7 @@
             "meaning": "누룩"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キク",
         "kundoku": "こうじ"
       },
       {
@@ -6432,8 +6432,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "れいめい",
-        "kundoku": null
+        "ondoku": "レイ",
+        "kundoku": ""
       }
     ]
   },
@@ -6458,7 +6458,7 @@
             "meaning": "권위를 의심하다"
           }
         ],
-        "ondoku": "ていだん",
+        "ondoku": "テイ",
         "kundoku": "かなえ"
       },
       {
@@ -6472,8 +6472,8 @@
             "meaning": "감실"
           }
         ],
-        "ondoku": "",
-        "kundoku": "がん"
+        "ondoku": "ガン",
+        "kundoku": ""
       },
       {
         "kanji": "龍",
@@ -6486,8 +6486,8 @@
             "meaning": "용"
           }
         ],
-        "ondoku": "",
-        "kundoku": "りゅう"
+        "ondoku": "リュウ",
+        "kundoku": "たつ"
       },
       {
         "kanji": "壷",
@@ -6500,7 +6500,7 @@
             "meaning": "항아리/혈자리"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コ",
         "kundoku": "つぼ"
       },
       {
@@ -6520,7 +6520,7 @@
             "meaning": "움푹 들어간 곳"
           }
         ],
-        "ondoku": "おぎくぼ",
+        "ondoku": "ワ",
         "kundoku": "くぼ"
       }
     ]
@@ -6540,7 +6540,7 @@
             "meaning": "폭포"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ロウ",
         "kundoku": "たき"
       },
       {
@@ -6560,7 +6560,7 @@
             "meaning": "주머니"
           }
         ],
-        "ondoku": "かんにんぶくろ",
+        "ondoku": "ノウ",
         "kundoku": "ふくろ"
       },
       {
@@ -6574,8 +6574,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "れんごく",
-        "kundoku": null
+        "ondoku": "レン",
+        "kundoku": "ねる"
       },
       {
         "kanji": "榊",
@@ -6602,8 +6602,8 @@
             "meaning": "기다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "は"
+        "ondoku": "シャ",
+        "kundoku": "はう"
       }
     ]
   },
@@ -6628,8 +6628,8 @@
             "meaning": "보리나 소 울음소리를 뜻해요"
           }
         ],
-        "ondoku": "むれ",
-        "kundoku": "む"
+        "ondoku": "ボウ・ム",
+        "kundoku": ""
       },
       {
         "kanji": "牡",
@@ -6648,7 +6648,7 @@
             "meaning": "수컷"
           }
         ],
-        "ondoku": "かき",
+        "ondoku": "ボ",
         "kundoku": "おす"
       },
       {
@@ -6667,7 +6667,7 @@
             "meaning": "키츠네 우동"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コ",
         "kundoku": "きつね"
       },
       {
@@ -6681,8 +6681,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こまいぬ",
-        "kundoku": null
+        "ondoku": "ハク",
+        "kundoku": "こま"
       },
       {
         "kanji": "猪",
@@ -6695,7 +6695,7 @@
             "meaning": "멧돼지"
           }
         ],
-        "ondoku": "",
+        "ondoku": "チョ",
         "kundoku": "いのしし"
       }
     ]
@@ -6715,8 +6715,8 @@
             "meaning": "도리/길"
           }
         ],
-        "ondoku": "",
-        "kundoku": "みち"
+        "ondoku": "ユウ",
+        "kundoku": ""
       },
       {
         "kanji": "獅",
@@ -6734,8 +6734,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しし / ししまい",
-        "kundoku": null
+        "ondoku": "シ",
+        "kundoku": ""
       },
       {
         "kanji": "珂",
@@ -6748,8 +6748,8 @@
             "meaning": "흰 마노/보석"
           }
         ],
-        "ondoku": "",
-        "kundoku": "か"
+        "ondoku": "カ",
+        "kundoku": ""
       },
       {
         "kanji": "珪",
@@ -6767,8 +6767,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けいそ / けいそうど",
-        "kundoku": null
+        "ondoku": "ケイ",
+        "kundoku": ""
       },
       {
         "kanji": "琉",
@@ -6781,8 +6781,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "りゅうきゅう",
-        "kundoku": null
+        "ondoku": "リュウ",
+        "kundoku": ""
       }
     ]
   },
@@ -6801,8 +6801,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "たくま",
-        "kundoku": null
+        "ondoku": "タク",
+        "kundoku": ""
       },
       {
         "kanji": "琳",
@@ -6815,8 +6815,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "りんぱ",
-        "kundoku": null
+        "ondoku": "リン",
+        "kundoku": ""
       },
       {
         "kanji": "瑚",
@@ -6829,8 +6829,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "さんご",
-        "kundoku": null
+        "ondoku": "コ",
+        "kundoku": ""
       },
       {
         "kanji": "瑛",
@@ -6843,8 +6843,8 @@
             "meaning": "일본 사람의 이름으로 인기가 아주 많"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あきら"
+        "ondoku": "エイ",
+        "kundoku": ""
       },
       {
         "kanji": "瑠",
@@ -6857,8 +6857,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "るり",
-        "kundoku": null
+        "ondoku": "ル",
+        "kundoku": ""
       }
     ]
   },
@@ -6877,8 +6877,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "るり",
-        "kundoku": null
+        "ondoku": "リ",
+        "kundoku": ""
       },
       {
         "kanji": "璧",
@@ -6891,8 +6891,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "かんぺき",
-        "kundoku": null
+        "ondoku": "ヘキ",
+        "kundoku": ""
       },
       {
         "kanji": "甫",
@@ -6905,8 +6905,8 @@
             "meaning": "일본 남자 이름 끝에 자주 붙는 글자"
           }
         ],
-        "ondoku": "",
-        "kundoku": "すけ"
+        "ondoku": "ホ・フ",
+        "kundoku": ""
       },
       {
         "kanji": "疋",
@@ -6919,8 +6919,8 @@
             "meaning": "마리"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ひき"
+        "ondoku": "ヒキ",
+        "kundoku": ""
       },
       {
         "kanji": "疹",
@@ -6938,8 +6938,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しっしん / じんましん",
-        "kundoku": null
+        "ondoku": "シン",
+        "kundoku": ""
       }
     ]
   },
@@ -6964,8 +6964,8 @@
             "meaning": "저리다"
           }
         ],
-        "ondoku": "まひ",
-        "kundoku": "しび"
+        "ondoku": "ヒ",
+        "kundoku": "しびれる"
       },
       {
         "kanji": "瘠",
@@ -6978,8 +6978,8 @@
             "meaning": "마르다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "や"
+        "ondoku": "セキ",
+        "kundoku": "やせる"
       },
       {
         "kanji": "癌",
@@ -6992,8 +6992,8 @@
             "meaning": "암"
           }
         ],
-        "ondoku": "",
-        "kundoku": "がん"
+        "ondoku": "ガン",
+        "kundoku": ""
       },
       {
         "kanji": "皐",
@@ -7006,8 +7006,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "さつき",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": "さつき"
       },
       {
         "kanji": "皓",
@@ -7020,8 +7020,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こうこう",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": ""
       }
     ]
   },
@@ -7040,8 +7040,8 @@
             "meaning": "술잔"
           }
         ],
-        "ondoku": "",
-        "kundoku": "さかづき"
+        "ondoku": "ハイ",
+        "kundoku": "さかずき"
       },
       {
         "kanji": "盈",
@@ -7054,8 +7054,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "えいきょ",
-        "kundoku": null
+        "ondoku": "エイ",
+        "kundoku": "みちる"
       },
       {
         "kanji": "眩",
@@ -7074,8 +7074,8 @@
             "meaning": "눈부시다"
           }
         ],
-        "ondoku": "めまい",
-        "kundoku": "まぶ"
+        "ondoku": "ゲン",
+        "kundoku": "まぶしい・くらむ"
       },
       {
         "kanji": "睨",
@@ -7093,8 +7093,8 @@
             "meaning": "위압감/영향력"
           }
         ],
-        "ondoku": "",
-        "kundoku": "にら / にらみ"
+        "ondoku": "ゲイ",
+        "kundoku": "にらむ"
       },
       {
         "kanji": "瞳",
@@ -7107,7 +7107,7 @@
             "meaning": "눈동자"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ドウ",
         "kundoku": "ひとみ"
       }
     ]
@@ -7133,8 +7133,8 @@
             "meaning": "자/직각"
           }
         ],
-        "ondoku": "きく",
-        "kundoku": "かね"
+        "ondoku": "ク",
+        "kundoku": ""
       },
       {
         "kanji": "砥",
@@ -7152,8 +7152,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "といし / とべやき",
-        "kundoku": null
+        "ondoku": "シ",
+        "kundoku": "と・といし"
       },
       {
         "kanji": "砦",
@@ -7166,7 +7166,7 @@
             "meaning": "요새/성채"
           }
         ],
-        "ondoku": "",
+        "ondoku": "サイ",
         "kundoku": "とりで"
       },
       {
@@ -7180,8 +7180,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "いおう",
-        "kundoku": null
+        "ondoku": "リュウ",
+        "kundoku": ""
       },
       {
         "kanji": "碓",
@@ -7194,8 +7194,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "うすい",
-        "kundoku": null
+        "ondoku": "タイ",
+        "kundoku": "うす"
       }
     ]
   },
@@ -7214,8 +7214,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ちゃわん",
-        "kundoku": null
+        "ondoku": "ワン",
+        "kundoku": ""
       },
       {
         "kanji": "碧",
@@ -7228,7 +7228,7 @@
             "meaning": "푸른색"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ヘキ",
         "kundoku": "あお"
       },
       {
@@ -7242,8 +7242,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ばんじゃく",
-        "kundoku": null
+        "ondoku": "バン",
+        "kundoku": "いわ"
       },
       {
         "kanji": "磯",
@@ -7256,7 +7256,7 @@
             "meaning": "바닷가/갯가"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キ",
         "kundoku": "いそ"
       },
       {
@@ -7270,8 +7270,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ほうろく",
-        "kundoku": null
+        "ondoku": "ロク",
+        "kundoku": ""
       }
     ]
   },
@@ -7290,8 +7290,8 @@
             "meaning": "일본 사람 이름에 주로 쓰이며, 하늘"
           }
         ],
-        "ondoku": "",
-        "kundoku": "さだ"
+        "ondoku": "テイ",
+        "kundoku": ""
       },
       {
         "kanji": "禰",
@@ -7304,8 +7304,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ねぎ",
-        "kundoku": null
+        "ondoku": "ネ・デイ",
+        "kundoku": ""
       },
       {
         "kanji": "禽",
@@ -7318,8 +7318,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "もうきん",
-        "kundoku": null
+        "ondoku": "キン",
+        "kundoku": ""
       },
       {
         "kanji": "秤",
@@ -7332,7 +7332,7 @@
             "meaning": "저울"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ショウ",
         "kundoku": "はかり"
       },
       {
@@ -7352,7 +7352,7 @@
             "meaning": "드물다"
           }
         ],
-        "ondoku": "けう",
+        "ondoku": "キ",
         "kundoku": "まれ"
       }
     ]
@@ -7372,8 +7372,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "りょうせん",
-        "kundoku": null
+        "ondoku": "リョウ",
+        "kundoku": ""
       },
       {
         "kanji": "穹",
@@ -7386,8 +7386,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "そうきゅう",
-        "kundoku": null
+        "ondoku": "キュウ",
+        "kundoku": ""
       },
       {
         "kanji": "窟",
@@ -7405,8 +7405,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "どうくつ / そうくつ",
-        "kundoku": null
+        "ondoku": "クツ",
+        "kundoku": ""
       },
       {
         "kanji": "窺",
@@ -7419,8 +7419,8 @@
             "meaning": "엿보다/살피다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "うかが"
+        "ondoku": "キ",
+        "kundoku": "うかがう"
       },
       {
         "kanji": "竪",
@@ -7439,7 +7439,7 @@
             "meaning": "세로"
           }
         ],
-        "ondoku": "たてあな",
+        "ondoku": "ジュ",
         "kundoku": "たて"
       }
     ]
@@ -7459,8 +7459,8 @@
             "meaning": "쇼"
           }
         ],
-        "ondoku": "",
-        "kundoku": "しょう"
+        "ondoku": "ショウ",
+        "kundoku": ""
       },
       {
         "kanji": "笈",
@@ -7473,7 +7473,7 @@
             "meaning": "오이"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キュウ",
         "kundoku": "おい"
       },
       {
@@ -7493,7 +7493,7 @@
           }
         ],
         "ondoku": "",
-        "kundoku": "ささ / ささのは"
+        "kundoku": "ささ"
       },
       {
         "kanji": "箋",
@@ -7511,8 +7511,8 @@
             "meaning": "편지지"
           }
         ],
-        "ondoku": "",
-        "kundoku": "しょほうせん / びんせん"
+        "ondoku": "セン",
+        "kundoku": ""
       },
       {
         "kanji": "箏",
@@ -7525,7 +7525,7 @@
             "meaning": "코토"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ソウ",
         "kundoku": "こと"
       }
     ]
@@ -7545,8 +7545,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "たんす",
-        "kundoku": null
+        "ondoku": "タン",
+        "kundoku": ""
       },
       {
         "kanji": "箇",
@@ -7559,8 +7559,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "かしょ",
-        "kundoku": null
+        "ondoku": "カ・コ",
+        "kundoku": ""
       },
       {
         "kanji": "箒",
@@ -7579,7 +7579,7 @@
             "meaning": "빗자루"
           }
         ],
-        "ondoku": "ほうきぼし",
+        "ondoku": "ソウ",
         "kundoku": "ほうき"
       },
       {
@@ -7599,8 +7599,8 @@
             "meaning": "품격이 더해지다"
           }
         ],
-        "ondoku": "きんぱく",
-        "kundoku": "はく"
+        "ondoku": "ハク",
+        "kundoku": ""
       },
       {
         "kanji": "箕",
@@ -7613,7 +7613,7 @@
             "meaning": "키"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キ",
         "kundoku": "み"
       }
     ]
@@ -7638,8 +7638,8 @@
             "meaning": "나무젓가락"
           }
         ],
-        "ondoku": "",
-        "kundoku": "はし / わりばし"
+        "ondoku": "チョ",
+        "kundoku": "はし"
       },
       {
         "kanji": "篩",
@@ -7657,8 +7657,8 @@
             "meaning": "선발하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ふるい / ふる"
+        "ondoku": "シ",
+        "kundoku": "ふるい"
       },
       {
         "kanji": "箙",
@@ -7671,7 +7671,7 @@
             "meaning": "화살집"
           }
         ],
-        "ondoku": "",
+        "ondoku": "フク",
         "kundoku": "えびら"
       },
       {
@@ -7690,8 +7690,8 @@
             "meaning": "(방에) 틀어박히다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "かご / こ"
+        "ondoku": "ロウ",
+        "kundoku": "かご・こもる"
       },
       {
         "kanji": "篏",
@@ -7704,8 +7704,8 @@
             "meaning": "끼우다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "は"
+        "ondoku": "カン",
+        "kundoku": ""
       }
     ]
   },
@@ -7724,7 +7724,7 @@
             "meaning": "칸자시"
           }
         ],
-        "ondoku": "",
+        "ondoku": "サン・シン",
         "kundoku": "かんざし"
       },
       {
@@ -7743,8 +7743,8 @@
             "meaning": "장대비"
           }
         ],
-        "ondoku": "",
-        "kundoku": "しの / しのつくあめ"
+        "ondoku": "ショウ",
+        "kundoku": "しの"
       },
       {
         "kanji": "簾",
@@ -7757,7 +7757,7 @@
             "meaning": "발"
           }
         ],
-        "ondoku": "",
+        "ondoku": "レン",
         "kundoku": "すだれ"
       },
       {
@@ -7771,8 +7771,8 @@
             "meaning": "라탄(등なむ)"
           }
         ],
-        "ondoku": "",
-        "kundoku": "とう"
+        "ondoku": "トウ",
+        "kundoku": ""
       },
       {
         "kanji": "籏",
@@ -7785,7 +7785,7 @@
             "meaning": "깃발"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キ",
         "kundoku": "はた"
       }
     ]
@@ -7811,7 +7811,7 @@
             "meaning": "덤불/숲"
           }
         ],
-        "ondoku": "やぶいしゃ",
+        "ondoku": "ソウ",
         "kundoku": "やぶ"
       },
       {
@@ -7831,7 +7831,7 @@
             "meaning": "제비/추첨"
           }
         ],
-        "ondoku": "くじび",
+        "ondoku": "セン",
         "kundoku": "くじ"
       },
       {
@@ -7851,8 +7851,8 @@
             "meaning": "바구니"
           }
         ],
-        "ondoku": "ろうじょう",
-        "kundoku": "かご"
+        "ondoku": "ロウ",
+        "kundoku": "かご・こもる"
       },
       {
         "kanji": "粥",
@@ -7870,8 +7870,8 @@
             "meaning": "음독으로는 '시쿠'라고 읽으며 불교 "
           }
         ],
-        "ondoku": "",
-        "kundoku": "おかゆ / しゅく"
+        "ondoku": "シュク",
+        "kundoku": "かゆ"
       },
       {
         "kanji": "糞",
@@ -7890,7 +7890,7 @@
             "meaning": "똥"
           }
         ],
-        "ondoku": "ふんにょう",
+        "ondoku": "フン",
         "kundoku": "くそ"
       }
     ]
@@ -7916,7 +7916,7 @@
             "meaning": "찌꺼기/지게미"
           }
         ],
-        "ondoku": "そうこう",
+        "ondoku": "ソウ",
         "kundoku": "かす"
       },
       {
@@ -7936,7 +7936,7 @@
             "meaning": "쌀겨"
           }
         ],
-        "ondoku": "ぬかづ",
+        "ondoku": "コウ",
         "kundoku": "ぬか"
       },
       {
@@ -7950,8 +7950,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "もちごめ",
-        "kundoku": null
+        "ondoku": "ダ",
+        "kundoku": "もち"
       },
       {
         "kanji": "糸",
@@ -7964,7 +7964,7 @@
             "meaning": "실"
           }
         ],
-        "ondoku": "",
+        "ondoku": "シ",
         "kundoku": "いと"
       },
       {
@@ -7978,8 +7978,8 @@
             "meaning": "캐묻다/조사하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ただ"
+        "ondoku": "キュウ",
+        "kundoku": "ただす"
       }
     ]
   },
@@ -7998,7 +7998,7 @@
             "meaning": "츠무기"
           }
         ],
-        "ondoku": "",
+        "ondoku": "チュウ",
         "kundoku": "つむぎ"
       },
       {
@@ -8012,8 +8012,8 @@
             "meaning": "묶다/묶어 올리다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "から"
+        "ondoku": "サツ",
+        "kundoku": ""
       },
       {
         "kanji": "絆",
@@ -8026,7 +8026,7 @@
             "meaning": "인연/유대"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ハン・バン",
         "kundoku": "きずな"
       },
       {
@@ -8040,8 +8040,8 @@
             "meaning": "꿰매다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "くけ"
+        "ondoku": "コウ",
+        "kundoku": ""
       },
       {
         "kanji": "絣",
@@ -8054,7 +8054,7 @@
             "meaning": "카스리"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ヘイ",
         "kundoku": "かすり"
       }
     ]
@@ -8074,8 +8074,8 @@
             "meaning": "로"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ろ"
+        "ondoku": "ロ",
+        "kundoku": ""
       },
       {
         "kanji": "綟",
@@ -8088,8 +8088,8 @@
             "meaning": "모지리"
           }
         ],
-        "ondoku": "",
-        "kundoku": "もじ"
+        "ondoku": "レイ",
+        "kundoku": ""
       },
       {
         "kanji": "綽",
@@ -8102,8 +8102,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゃくしゃく",
-        "kundoku": null
+        "ondoku": "シャク",
+        "kundoku": ""
       },
       {
         "kanji": "綴",
@@ -8116,8 +8116,8 @@
             "meaning": "엮다/철하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "つづ"
+        "ondoku": "テイ・テツ",
+        "kundoku": "つづる"
       },
       {
         "kanji": "綻",
@@ -8135,8 +8135,8 @@
             "meaning": "꽃망울이 터지다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ほころ"
+        "ondoku": "タン",
+        "kundoku": "ほころびる"
       }
     ]
   },
@@ -8160,7 +8160,7 @@
             "meaning": "능직"
           }
         ],
-        "ondoku": "",
+        "ondoku": "リョウ",
         "kundoku": "あや"
       },
       {
@@ -8174,8 +8174,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "きれい",
-        "kundoku": null
+        "ondoku": "キ",
+        "kundoku": ""
       },
       {
         "kanji": "緋",
@@ -8188,8 +8188,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ひいろ",
-        "kundoku": null
+        "ondoku": "ヒ",
+        "kundoku": ""
       },
       {
         "kanji": "綜",
@@ -8202,8 +8202,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "そうごう",
-        "kundoku": null
+        "ondoku": "ソウ",
+        "kundoku": ""
       },
       {
         "kanji": "緞",
@@ -8216,8 +8216,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "どんちょう",
-        "kundoku": null
+        "ondoku": "ドン",
+        "kundoku": ""
       }
     ]
   },
@@ -8236,8 +8236,8 @@
             "meaning": "검다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "くろ"
+        "ondoku": "シ",
+        "kundoku": ""
       },
       {
         "kanji": "緘",
@@ -8256,8 +8256,8 @@
             "meaning": "함구하다"
           }
         ],
-        "ondoku": "ふうかん",
-        "kundoku": "かん"
+        "ondoku": "カン",
+        "kundoku": ""
       },
       {
         "kanji": "綬",
@@ -8270,8 +8270,8 @@
             "meaning": "수"
           }
         ],
-        "ondoku": "",
-        "kundoku": "じゅ"
+        "ondoku": "ジュ",
+        "kundoku": ""
       },
       {
         "kanji": "緞",
@@ -8284,8 +8284,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "どんす",
-        "kundoku": null
+        "ondoku": "ドン",
+        "kundoku": ""
       },
       {
         "kanji": "紐",
@@ -8303,7 +8303,7 @@
             "meaning": "기둥서방"
           }
         ],
-        "ondoku": "",
+        "ondoku": "チュウ",
         "kundoku": "ひも"
       }
     ]
@@ -8323,7 +8323,7 @@
             "meaning": "카스리"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ヘイ",
         "kundoku": "かすり"
       },
       {
@@ -8337,8 +8337,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "そうごう",
-        "kundoku": null
+        "ondoku": "ソウ",
+        "kundoku": ""
       },
       {
         "kanji": "縞",
@@ -8357,7 +8357,7 @@
             "meaning": "줄무늬(스트ら이프)"
           }
         ],
-        "ondoku": "しまうま",
+        "ondoku": "コウ",
         "kundoku": "しま"
       },
       {
@@ -8376,8 +8376,8 @@
             "meaning": "꼬임"
           }
         ],
-        "ondoku": "",
-        "kundoku": "よ"
+        "ondoku": "シ",
+        "kundoku": "よる"
       },
       {
         "kanji": "縷",
@@ -8390,8 +8390,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "るる",
-        "kundoku": null
+        "ondoku": "ル",
+        "kundoku": ""
       }
     ]
   },
@@ -8410,8 +8410,8 @@
             "meaning": "하나다색"
           }
         ],
-        "ondoku": "",
-        "kundoku": "はなだ"
+        "ondoku": "ヒョウ",
+        "kundoku": ""
       },
       {
         "kanji": "繃",
@@ -8424,8 +8424,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ほうたい",
-        "kundoku": null
+        "ondoku": "ホウ",
+        "kundoku": ""
       },
       {
         "kanji": "繻",
@@ -8438,8 +8438,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しゅす",
-        "kundoku": null
+        "ondoku": "シュ",
+        "kundoku": ""
       },
       {
         "kanji": "纈",
@@ -8452,8 +8452,8 @@
             "meaning": "홀치기염색"
           }
         ],
-        "ondoku": "",
-        "kundoku": "しぼりゆい"
+        "ondoku": "ケツ",
+        "kundoku": ""
       },
       {
         "kanji": "罔",
@@ -8466,8 +8466,8 @@
             "meaning": "없다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "な"
+        "ondoku": "モウ・ボウ",
+        "kundoku": ""
       }
     ]
   },
@@ -8486,8 +8486,8 @@
             "meaning": "드물다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "まれ"
+        "ondoku": "カン",
+        "kundoku": ""
       },
       {
         "kanji": "罔",
@@ -8500,8 +8500,8 @@
             "meaning": "그물"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あみ"
+        "ondoku": "モウ・ボウ",
+        "kundoku": ""
       },
       {
         "kanji": "罘",
@@ -8514,8 +8514,8 @@
             "meaning": "그물"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あみ"
+        "ondoku": "フ",
+        "kundoku": ""
       },
       {
         "kanji": "羂",
@@ -8528,8 +8528,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けんさく/けんじゃく",
-        "kundoku": null
+        "ondoku": "ケン",
+        "kundoku": "わな"
       },
       {
         "kanji": "羃",
@@ -8542,8 +8542,8 @@
             "meaning": "멱(거듭제곱)"
           }
         ],
-        "ondoku": "",
-        "kundoku": "べき"
+        "ondoku": "ベキ",
+        "kundoku": ""
       }
     ]
   },
@@ -8562,8 +8562,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "きはん",
-        "kundoku": null
+        "ondoku": "キ",
+        "kundoku": ""
       },
       {
         "kanji": "翹",
@@ -8576,8 +8576,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ぎょうぼう",
-        "kundoku": null
+        "ondoku": "ギョウ",
+        "kundoku": ""
       },
       {
         "kanji": "肱",
@@ -8590,7 +8590,7 @@
             "meaning": "팔꿈치"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コウ",
         "kundoku": "ひじ"
       },
       {
@@ -8609,8 +8609,8 @@
             "meaning": "허벅지"
           }
         ],
-        "ondoku": "",
-        "kundoku": "また / もも"
+        "ondoku": "コ",
+        "kundoku": "もも・また"
       },
       {
         "kanji": "肴",
@@ -8623,7 +8623,7 @@
             "meaning": "안주"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コウ",
         "kundoku": "さかな"
       }
     ]
@@ -8649,8 +8649,8 @@
             "meaning": "씨/혈통"
           }
         ],
-        "ondoku": "こういん",
-        "kundoku": "たね"
+        "ondoku": "イン",
+        "kundoku": ""
       },
       {
         "kanji": "胱",
@@ -8663,8 +8663,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ぼうこう",
-        "kundoku": null
+        "ondoku": "コウ",
+        "kundoku": ""
       },
       {
         "kanji": "胴",
@@ -8682,8 +8682,8 @@
             "meaning": "헹가래"
           }
         ],
-        "ondoku": "",
-        "kundoku": "どう / どうあげ"
+        "ondoku": "ドウ",
+        "kundoku": ""
       },
       {
         "kanji": "脂",
@@ -8701,8 +8701,8 @@
             "meaning": "눈곱/담배 진"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あぶら / やに"
+        "ondoku": "シ",
+        "kundoku": "あぶら"
       },
       {
         "kanji": "胯",
@@ -8715,7 +8715,7 @@
             "meaning": "가랑이"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コ",
         "kundoku": "また"
       }
     ]
@@ -8741,8 +8741,8 @@
             "meaning": "무르다/약하다"
           }
         ],
-        "ondoku": "ぜいじゃく",
-        "kundoku": "もろ"
+        "ondoku": "ゼイ",
+        "kundoku": "もろい"
       },
       {
         "kanji": "脊",
@@ -8760,8 +8760,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "せきつい / せなか",
-        "kundoku": null
+        "ondoku": "セキ",
+        "kundoku": "せ"
       },
       {
         "kanji": "腋",
@@ -8780,7 +8780,7 @@
             "meaning": "겨드랑이"
           }
         ],
-        "ondoku": "わきが",
+        "ondoku": "エキ",
         "kundoku": "わき"
       },
       {
@@ -8794,8 +8794,8 @@
             "meaning": "강(공간)"
           }
         ],
-        "ondoku": "",
-        "kundoku": "こう"
+        "ondoku": "コウ",
+        "kundoku": ""
       },
       {
         "kanji": "腕",
@@ -8814,7 +8814,7 @@
             "meaning": "팔/솜씨"
           }
         ],
-        "ondoku": "うでまえ",
+        "ondoku": "ワン",
         "kundoku": "うで"
       }
     ]
@@ -8839,8 +8839,8 @@
             "meaning": "아킬레스건"
           }
         ],
-        "ondoku": "",
-        "kundoku": "けん / あきれすけん"
+        "ondoku": "ケン",
+        "kundoku": ""
       },
       {
         "kanji": "腭",
@@ -8853,8 +8853,8 @@
             "meaning": "턱"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あご"
+        "ondoku": "ガク",
+        "kundoku": ""
       },
       {
         "kanji": "腮",
@@ -8867,7 +8867,7 @@
             "meaning": "턱/뺨"
           }
         ],
-        "ondoku": "",
+        "ondoku": "サイ",
         "kundoku": "あご"
       },
       {
@@ -8886,7 +8886,7 @@
             "meaning": "겸손하다"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ヨウ",
         "kundoku": "こし"
       },
       {
@@ -8905,8 +8905,8 @@
             "meaning": "내장"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ちょう / わた"
+        "ondoku": "チョウ",
+        "kundoku": ""
       }
     ]
   },
@@ -8925,8 +8925,8 @@
             "meaning": "선(Gland)"
           }
         ],
-        "ondoku": "",
-        "kundoku": "せん"
+        "ondoku": "セン",
+        "kundoku": ""
       },
       {
         "kanji": "腿",
@@ -8945,7 +8945,7 @@
             "meaning": "허벅지"
           }
         ],
-        "ondoku": "だいたい",
+        "ondoku": "タイ",
         "kundoku": "もも"
       },
       {
@@ -8959,8 +8959,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ぼうこう",
-        "kundoku": null
+        "ondoku": "ボウ",
+        "kundoku": ""
       },
       {
         "kanji": "膝",
@@ -8979,7 +8979,7 @@
             "meaning": "무릎"
           }
         ],
-        "ondoku": "ひざまくら",
+        "ondoku": "シツ",
         "kundoku": "ひざ"
       },
       {
@@ -8993,8 +8993,8 @@
             "meaning": "질"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ちつ"
+        "ondoku": "チツ",
+        "kundoku": ""
       }
     ]
   },
@@ -9013,8 +9013,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "すいぞう",
-        "kundoku": null
+        "ondoku": "スイ",
+        "kundoku": ""
       },
       {
         "kanji": "膠",
@@ -9033,7 +9033,7 @@
             "meaning": "아교"
           }
         ],
-        "ondoku": "こうちゃく",
+        "ondoku": "コウ",
         "kundoku": "にかわ"
       },
       {
@@ -9052,8 +9052,8 @@
             "meaning": "준비"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ぜん"
+        "ondoku": "ゼン",
+        "kundoku": ""
       },
       {
         "kanji": "臆",
@@ -9072,8 +9072,8 @@
             "meaning": "주저함 없이"
           }
         ],
-        "ondoku": "おくびょう",
-        "kundoku": "おく"
+        "ondoku": "オク",
+        "kundoku": ""
       },
       {
         "kanji": "臥",
@@ -9092,8 +9092,8 @@
             "meaning": "병으로 눕다"
           }
         ],
-        "ondoku": "がしょう",
-        "kundoku": "ふ"
+        "ondoku": "ガ",
+        "kundoku": "ふす"
       }
     ]
   },
@@ -9118,7 +9118,7 @@
             "meaning": "절구"
           }
         ],
-        "ondoku": "きゅうし/うすば",
+        "ondoku": "キュウ",
         "kundoku": "うす"
       },
       {
@@ -9132,8 +9132,8 @@
             "meaning": "주다/부여하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "あた"
+        "ondoku": "ヨ",
+        "kundoku": "あたえる"
       },
       {
         "kanji": "舒",
@@ -9146,8 +9146,8 @@
             "meaning": "펴지다/자라다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "の"
+        "ondoku": "ジョ",
+        "kundoku": ""
       },
       {
         "kanji": "舖",
@@ -9160,8 +9160,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "てんぽ",
-        "kundoku": null
+        "ondoku": "ホ",
+        "kundoku": ""
       },
       {
         "kanji": "舘",
@@ -9174,8 +9174,8 @@
             "meaning": "저택/관"
           }
         ],
-        "ondoku": "",
-        "kundoku": "やかた"
+        "ondoku": "カン",
+        "kundoku": "たて・やかた"
       }
     ]
   },
@@ -9200,8 +9200,8 @@
             "meaning": "세차게 베다"
           }
         ],
-        "ondoku": "なぎなた",
-        "kundoku": "な"
+        "ondoku": "テイ",
+        "kundoku": "なぐ"
       },
       {
         "kanji": "藁",
@@ -9219,7 +9219,7 @@
             "meaning": "짚인형"
           }
         ],
-        "ondoku": "",
+        "ondoku": "コウ",
         "kundoku": "わら"
       },
       {
@@ -9239,8 +9239,8 @@
             "meaning": "난초"
           }
         ],
-        "ondoku": "らんがく",
-        "kundoku": "らん"
+        "ondoku": "ラン",
+        "kundoku": ""
       },
       {
         "kanji": "蛙",
@@ -9258,8 +9258,8 @@
             "meaning": "우물 안 개구리"
           }
         ],
-        "ondoku": "",
-        "kundoku": "かえる / い"
+        "ondoku": "ア・ワ",
+        "kundoku": "かえる"
       },
       {
         "kanji": "蝦",
@@ -9278,7 +9278,7 @@
             "meaning": "새우"
           }
         ],
-        "ondoku": "えぞ",
+        "ondoku": "カ",
         "kundoku": "えび"
       }
     ]
@@ -9303,8 +9303,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ねじ / さざえ",
-        "kundoku": null
+        "ondoku": "ラ",
+        "kundoku": "にし"
       },
       {
         "kanji": "蟹",
@@ -9322,7 +9322,7 @@
             "meaning": "게 가공선"
           }
         ],
-        "ondoku": "",
+        "ondoku": "カイ",
         "kundoku": "かに"
       },
       {
@@ -9336,8 +9336,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "こうえい",
-        "kundoku": null
+        "ondoku": "エイ",
+        "kundoku": ""
       },
       {
         "kanji": "裾",
@@ -9355,7 +9355,7 @@
             "meaning": "바지 밑단 수선"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キョ",
         "kundoku": "すそ"
       },
       {
@@ -9369,7 +9369,7 @@
             "meaning": "후스마"
           }
         ],
-        "ondoku": "",
+        "ondoku": "オウ",
         "kundoku": "ふすま"
       }
     ]
@@ -9394,8 +9394,8 @@
             "meaning": "엿보는 구멍"
           }
         ],
-        "ondoku": "",
-        "kundoku": "のぞ"
+        "ondoku": "シ",
+        "kundoku": "のぞく"
       },
       {
         "kanji": "訃",
@@ -9408,8 +9408,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ふほう",
-        "kundoku": null
+        "ondoku": "フ",
+        "kundoku": ""
       },
       {
         "kanji": "訛",
@@ -9427,8 +9427,8 @@
             "meaning": "사투리/억양"
           }
         ],
-        "ondoku": "",
-        "kundoku": "なま"
+        "ondoku": "カ",
+        "kundoku": "なまり・なまる"
       },
       {
         "kanji": "訣",
@@ -9441,8 +9441,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "けつべつ",
-        "kundoku": null
+        "ondoku": "ケツ",
+        "kundoku": ""
       },
       {
         "kanji": "詫",
@@ -9460,8 +9460,8 @@
             "meaning": "사과/사죄"
           }
         ],
-        "ondoku": "",
-        "kundoku": "わ"
+        "ondoku": "タ",
+        "kundoku": "わびる"
       }
     ]
   },
@@ -9480,8 +9480,8 @@
             "meaning": "간하다/훈계하다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "いさ"
+        "ondoku": "カン",
+        "kundoku": "いさめる"
       },
       {
         "kanji": "諒",
@@ -9494,8 +9494,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "りょうかい",
-        "kundoku": null
+        "ondoku": "リョウ",
+        "kundoku": ""
       },
       {
         "kanji": "讃",
@@ -9513,8 +9513,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "さんびか / じがじさん",
-        "kundoku": null
+        "ondoku": "サン",
+        "kundoku": ""
       },
       {
         "kanji": "豹",
@@ -9533,8 +9533,8 @@
             "meaning": "표범"
           }
         ],
-        "ondoku": "ひょうへん",
-        "kundoku": "ひょう"
+        "ondoku": "ヒョウ",
+        "kundoku": ""
       },
       {
         "kanji": "貰",
@@ -9552,8 +9552,8 @@
             "meaning": "받은 선물"
           }
         ],
-        "ondoku": "",
-        "kundoku": "もら"
+        "ondoku": "セイ",
+        "kundoku": "もらう"
       }
     ]
   },
@@ -9577,8 +9577,8 @@
             "meaning": "활기를 띠다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "にぎ"
+        "ondoku": "シン",
+        "kundoku": "にぎわう"
       },
       {
         "kanji": "贅",
@@ -9596,8 +9596,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ぜいたく / ぜいにく",
-        "kundoku": null
+        "ondoku": "ゼイ",
+        "kundoku": ""
       },
       {
         "kanji": "赳",
@@ -9610,8 +9610,8 @@
             "meaning": "굳세고 용감하다는 뜻으로, 일본 남자"
           }
         ],
-        "ondoku": "",
-        "kundoku": "たけ"
+        "ondoku": "キュウ",
+        "kundoku": ""
       },
       {
         "kanji": "趙",
@@ -9624,8 +9624,8 @@
             "meaning": "중국 전국 시대의 나라 이름이자 일본"
           }
         ],
-        "ondoku": "",
-        "kundoku": "ちょう"
+        "ondoku": "チョウ",
+        "kundoku": ""
       },
       {
         "kanji": "跨",
@@ -9638,8 +9638,8 @@
             "meaning": "가로지르다/넘다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "また"
+        "ondoku": "コ",
+        "kundoku": "またがる・またぐ"
       }
     ]
   },
@@ -9658,8 +9658,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ちゅうちょ",
-        "kundoku": null
+        "ondoku": "チョ",
+        "kundoku": "ためらう"
       },
       {
         "kanji": "軋",
@@ -9678,8 +9678,8 @@
             "meaning": "삐걱거리다"
           }
         ],
-        "ondoku": "あつれき",
-        "kundoku": "きし"
+        "ondoku": "アツ",
+        "kundoku": "きしむ"
       },
       {
         "kanji": "輔",
@@ -9698,8 +9698,8 @@
             "meaning": "일본 남자 이름으로 아주 인기가 많은"
           }
         ],
-        "ondoku": "ほさ",
-        "kundoku": "たすく"
+        "ondoku": "ホ・フ",
+        "kundoku": ""
       },
       {
         "kanji": "轍",
@@ -9718,7 +9718,7 @@
             "meaning": "바퀴 자국"
           }
         ],
-        "ondoku": "ぜんてつ",
+        "ondoku": "テツ",
         "kundoku": "わだち"
       },
       {
@@ -9737,7 +9737,7 @@
             "meaning": "용띠 해"
           }
         ],
-        "ondoku": "",
+        "ondoku": "シン",
         "kundoku": "たつ"
       }
     ]
@@ -9763,7 +9763,7 @@
             "meaning": "길목/네거리"
           }
         ],
-        "ondoku": "つじぎ",
+        "ondoku": "",
         "kundoku": "つじ"
       },
       {
@@ -9782,8 +9782,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "うかい / うかつ",
-        "kundoku": null
+        "ondoku": "ウ",
+        "kundoku": ""
       },
       {
         "kanji": "遁",
@@ -9801,8 +9801,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "とんそう / かとん",
-        "kundoku": null
+        "ondoku": "トン",
+        "kundoku": "のがれる"
       },
       {
         "kanji": "遥",
@@ -9820,8 +9820,8 @@
             "meaning": "아득한 저편"
           }
         ],
-        "ondoku": "",
-        "kundoku": "はる"
+        "ondoku": "ヨウ",
+        "kundoku": "はるか"
       },
       {
         "kanji": "遼",
@@ -9840,8 +9840,8 @@
             "meaning": "일본 남자 이름으로 매우 세련된 느낌"
           }
         ],
-        "ondoku": "りょうえん",
-        "kundoku": "りょう"
+        "ondoku": "リョウ",
+        "kundoku": ""
       }
     ]
   },
@@ -9860,7 +9860,7 @@
             "meaning": "마을"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ユウ",
         "kundoku": "むら"
       },
       {
@@ -9874,8 +9874,8 @@
             "meaning": "향기가 좋고 문화가 융성하다는 뜻으로"
           }
         ],
-        "ondoku": "",
-        "kundoku": "いく"
+        "ondoku": "イク",
+        "kundoku": ""
       },
       {
         "kanji": "酎",
@@ -9888,8 +9888,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "しょうちゅう",
-        "kundoku": null
+        "ondoku": "チュウ",
+        "kundoku": ""
       },
       {
         "kanji": "酬",
@@ -9907,8 +9907,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "ほうしゅう / おうしゅう",
-        "kundoku": null
+        "ondoku": "シュウ",
+        "kundoku": ""
       },
       {
         "kanji": "醇",
@@ -9926,8 +9926,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "じゅんぼく / ほうじゅん",
-        "kundoku": null
+        "ondoku": "ジュン",
+        "kundoku": ""
       }
     ]
   },
@@ -9946,8 +9946,8 @@
             "meaning": "우네메"
           }
         ],
-        "ondoku": "",
-        "kundoku": "うねめ"
+        "ondoku": "ハン",
+        "kundoku": ""
       },
       {
         "kanji": "釘",
@@ -9965,8 +9965,8 @@
             "meaning": "시선 고정"
           }
         ],
-        "ondoku": "",
-        "kundoku": "くぎ / め"
+        "ondoku": "テイ",
+        "kundoku": "くぎ"
       },
       {
         "kanji": "釧",
@@ -9979,8 +9979,8 @@
           }
         ],
         "kundokuEx": [],
-        "ondoku": "くしろ",
-        "kundoku": null
+        "ondoku": "セン",
+        "kundoku": "くしろ"
       },
       {
         "kanji": "鋤",
@@ -9993,8 +9993,8 @@
             "meaning": "(땅을) 파다/고르다"
           }
         ],
-        "ondoku": "",
-        "kundoku": "す"
+        "ondoku": "ジョ",
+        "kundoku": "すき"
       },
       {
         "kanji": "鋸",
@@ -10012,7 +10012,7 @@
             "meaning": "톱니 모양 지붕"
           }
         ],
-        "ondoku": "",
+        "ondoku": "キョ",
         "kundoku": "のこぎり"
       }
     ]
@@ -10038,8 +10038,8 @@
             "meaning": "무게추"
           }
         ],
-        "ondoku": "ぼうすい",
-        "kundoku": "おもり"
+        "ondoku": "スイ",
+        "kundoku": "つむ"
       },
       {
         "kanji": "錫",
@@ -10058,7 +10058,7 @@
             "meaning": "주석"
           }
         ],
-        "ondoku": "しゃくじょう",
+        "ondoku": "セキ",
         "kundoku": "すず"
       },
       {
@@ -10077,7 +10077,7 @@
             "meaning": "츠바제리아이"
           }
         ],
-        "ondoku": "",
+        "ondoku": "ガク",
         "kundoku": "つば"
       },
       {
@@ -10097,7 +10097,7 @@
             "meaning": "침"
           }
         ],
-        "ondoku": "しんきゅう",
+        "ondoku": "シン",
         "kundoku": "はり"
       },
       {
@@ -10117,7 +10117,7 @@
             "meaning": "낫"
           }
         ],
-        "ondoku": "かまくら",
+        "ondoku": "レン",
         "kundoku": "かま"
       }
     ]
